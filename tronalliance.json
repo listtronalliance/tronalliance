@@ -4,7 +4,7 @@
 	"timestamp": 1617874934413,
 	"version": {
 		"major": 1,
-		"minor": 0,
+		"minor": 1,
 		"patch": 0
 	},
 	"tokens": [{
@@ -57,11 +57,11 @@
 		"name": "Ethereum",
 		"logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
 	}, {
-		"symbol": "SUN",
+		"symbol": "SUNOLD",
 		"address": "TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
 		"chainId": 1,
 		"decimals": 18,
-		"name": "SUN TOKEN",
+		"name": "SUNOLD",
 		"logoURI": "https://coin.top/production/logo/SUNLogo.178d4636.png"
 	}, {
 		"symbol": "FIST",
