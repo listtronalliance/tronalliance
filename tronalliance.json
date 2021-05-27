@@ -5,7 +5,7 @@
 	"version": {
 		"major": 1,
 		"minor": 1,
-		"patch": 1
+		"patch": 2
 	},
 	"tokens": [{
 		"symbol": "USDT",
@@ -62,7 +62,7 @@
 		"chainId": 1,
 		"decimals": 18,
 		"name": "SUN",
-		"logoURI": "https://coin.top/production/upload/logo/TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S.png"
+		"logoURI": "https://coin.top/production/logo/TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S.png"
 	},
 		   	   
         {
@@ -72,7 +72,17 @@
 		"decimals": 18,
 		"name": "SUNOLD",
 		"logoURI": "https://coin.top/production/logo/SUNLogo.178d4636.png"
-	}, {
+	},
+        {
+		"symbol": "NFT",
+		"address": "TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
+		"chainId": 1,
+		"decimals": 18,
+		"name": "APENFT",
+		"logoURI": "https://coin.top/production/upload/logo/TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq.png"
+	},
+		   
+        {
 		"symbol": "FIST",
 		"address": "TL6K6iaEkn8kdnJ79a8Be3S4RFf4pFkGE8",
 		"chainId": 1,
