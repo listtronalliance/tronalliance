@@ -5,7 +5,7 @@
 	"version": {
 		"major": 1,
 		"minor": 1,
-		"patch": 2
+		"patch": 3
 	},
 	"tokens": [{
 		"symbol": "USDT",
@@ -77,7 +77,7 @@
 		"symbol": "NFT",
 		"address": "TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq",
 		"chainId": 1,
-		"decimals": 18,
+		"decimals": 6,
 		"name": "APENFT",
 		"logoURI": "https://coin.top/production/upload/logo/TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq.png"
 	},
