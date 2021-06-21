@@ -5,7 +5,7 @@
 	"version": {
 		"major": 1,
 		"minor": 1,
-		"patch": 3
+		"patch": 4
 	},
 	"tokens": [{
 		"symbol": "USDT",
@@ -80,6 +80,14 @@
 		"decimals": 6,
 		"name": "APENFT",
 		"logoURI": "https://coin.top/production/upload/logo/TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq.png"
+	},	   
+        {
+		"symbol": "SafeMoney",
+		"address": "TNBrVEzuVYbNbGF2ua3ivSX5Y5V9N4xhax",
+		"chainId": 1,
+		"decimals": 8,
+		"name": "SafeMoney",
+		"logoURI": "https://coin.top/production/upload/logo/TNBrVEzuVYbNbGF2ua3ivSX5Y5V9N4xhax.png?t=1623421904154"
 	},
 		   
         {
