@@ -1,11 +1,11 @@
 {
 	"name": "Tron Alliance List",
 	"logoURI": "https://list.tronalliance.cc/fav.ico",
-	"timestamp": 1622025224000,
+	"timestamp": 1639632508000,
 	"version": {
 		"major": 1,
 		"minor": 1,
-		"patch": 4
+		"patch": 5
 	},
 	"tokens": [{
 		"symbol": "USDT",
@@ -28,7 +28,16 @@
 		"decimals": 18,
 		"name": "JUST GOV",
 		"logoURI": "https://coin.top/production/logo/just_icon.png"
-	}, {
+	},
+	{
+		"symbol": "BTT",
+		"address": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
+		"chainId": 1,
+		"decimals": 18,
+		"name": "BitTorrent",
+		"logoURI": "https://coin.top/production/logo/1002000.png"
+	},	   
+        {
 		"symbol": "WBTT",
 		"address": "TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
 		"chainId": 1,
