@@ -4,8 +4,8 @@
 	"timestamp": 1639632508000,
 	"version": {
 		"major": 1,
-		"minor": 1,
-		"patch": 5
+		"minor": 2,
+		"patch": 0
 	},
 	"tokens": [{
 		"symbol": "USDT",
