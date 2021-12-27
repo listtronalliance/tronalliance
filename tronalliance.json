@@ -296,14 +296,6 @@
 			"logoURI": "https://coin.top/production/upload/logo/TMA9ma43rvdEZHygpDResKuQfuE2iide23.jpeg"
 		},
 		{
-			"symbol": "CHT",
-			"name": "CHeetah",
-			"address": "TRjFpTRgDaYL35qFokS3Fht3SEuQj52j9d",
-			"chainId": 1,
-			"decimals": 8,
-			"logoURI": "https://coin.top/production/upload/logo/TRjFpTRgDaYL35qFokS3Fht3SEuQj52j9d.jpeg"
-		},
-		{
 			"symbol": "DLW",
 			"name": "DLW",
 			"address": "TX8mKRD7CCvxh98rg7MdCGjtjSuHw9LSZg",
@@ -328,36 +320,12 @@
 			"logoURI": "https://coin.top/production/upload/logo/TGQni2cxEXp6Lpj8q9C85to1CDFoLmvxXE.jpeg"
 		},
 		{
-			"symbol": "MC20",
-			"name": "MC20 Token",
-			"address": "TV7oi94UfF3KXRd3UxJXvAJH5UkNUpNqUB",
-			"chainId": 1,
-			"decimals": 18,
-			"logoURI": "https://coin.top/production/upload/logo/TV7oi94UfF3KXRd3UxJXvAJH5UkNUpNqUB.png"
-		},
-		{
 			"symbol": "KLA",
 			"name": "KLA",
 			"address": "TP4nHN9cy7gv3GyEpWDmQKHAHpYXte1f5W",
 			"chainId": 1,
 			"decimals": 18,
 			"logoURI": "https://coin.top/production/upload/logo/TP4nHN9cy7gv3GyEpWDmQKHAHpYXte1f5W.png"
-		},
-		{
-			"symbol": "POST",
-			"name": "POSToken",
-			"address": "TW46hVDA6TAiKyVrA8Ux3yBu2CWFVxqnZ3",
-			"chainId": 1,
-			"decimals": 6,
-			"logoURI": "https://coin.top/production/upload/logo/TW46hVDA6TAiKyVrA8Ux3yBu2CWFVxqnZ3.png"
-		},
-		{
-			"symbol": "BK",
-			"name": "BaKe",
-			"address": "TQed9z9kTtXA7AVBVhh9n69X2yS6mAZ3wD",
-			"chainId": 1,
-			"decimals": 18,
-			"logoURI": "https://coin.top/production/upload/logo/TQed9z9kTtXA7AVBVhh9n69X2yS6mAZ3wD.jpeg"
 		},
 		{
 			"symbol": "DXM",
