@@ -1,13 +1,4 @@
-{
-"name": "Tron Alliance List",
-"logoURI": "https://list.tronalliance.cc/fav.ico",
-"timestamp": 1639632508000,
-"version": {
-"major": 1,
-"minor": 3,
-"patch": 0
-},
-"tokens":[
+[
 {
 "symbol": "USDC",
 "name": "USD Coin",
@@ -53,7 +44,7 @@
 "name": "Bitcoin",
 "address": "TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9",
 "chainId": 1,
-"decimals": 8",
+"decimals": 8,
 "logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png"
 },
 {
@@ -61,7 +52,7 @@
 "name": "Wrapped BTC",
 "address": "TXpw8XeWYeTUd4quDskoUqeQPowRh4jY65",
 "chainId": 1,
-"decimals": 8",
+"decimals": 8,
 "logoURI": "https://coin.top/production/logo/TXpw8XeWYeTUd4quDskoUqeQPowRh4jY65.png"
 },
 {
@@ -157,7 +148,7 @@
 "name": "Litecoin",
 "address": "TR3DLthpnDdCGabhVDbD3VMsiJoCXY3bZd",
 "chainId": 1,
-"decimals": 8",
+"decimals": 8,
 "logoURI": "https://coin.top/production/logo/TR3DLthpnDdCGabhVDbD3VMsiJoCXY3bZd.png"
 },
 {
@@ -253,7 +244,7 @@
 "name": "Financial supermarket",
 "address": "TRaH6Q1XRXetdpQfctmGMKGwyq7iV3zppk",
 "chainId": 1,
-"decimals": 8",
+"decimals": 8,
 "logoURI": "https://coin.top/production/upload/logo/TRaH6Q1XRXetdpQfctmGMKGwyq7iV3zppk.png"
 },
 {
@@ -301,7 +292,7 @@
 "name": "CHeetah",
 "address": "TRjFpTRgDaYL35qFokS3Fht3SEuQj52j9d",
 "chainId": 1,
-"decimals": 8",
+"decimals": 8,
 "logoURI": "https://coin.top/production/upload/logo/TRjFpTRgDaYL35qFokS3Fht3SEuQj52j9d.jpeg"
 },
 {
@@ -309,7 +300,7 @@
 "name": "DLW",
 "address": "TX8mKRD7CCvxh98rg7MdCGjtjSuHw9LSZg",
 "chainId": 1,
-"decimals": 8",
+"decimals": 8,
 "logoURI": "https://coin.top/production/upload/logo/TX8mKRD7CCvxh98rg7MdCGjtjSuHw9LSZg.png"
 },
 {
@@ -317,7 +308,7 @@
 "name": "CAVA TOKEN",
 "address": "TZ9d1eaHuvW9danNbwtxg4CyNaAEHKH1cm",
 "chainId": 1,
-"decimals": 8",
+"decimals": 8,
 "logoURI": "https://coin.top/production/upload/logo/TZ9d1eaHuvW9danNbwtxg4CyNaAEHKH1cm.png"
 },
 {
@@ -373,7 +364,7 @@
 "name": "YBC",
 "address": "TLXzq19DnaK48ktxjBLTvLbYBFRX2BWgcP",
 "chainId": 1,
-"decimals": 8",
+"decimals": 8,
 "logoURI": "https://coin.top/production/upload/logo/TLXzq19DnaK48ktxjBLTvLbYBFRX2BWgcP.png"
 },
 {
@@ -409,4 +400,3 @@
 "logoURI": "https://coin.top/production/upload/logo/THBLkKcqHQFTDbYTF3yYMnfYBRugb3WJZp.jpeg"
 }
 ]
-}
