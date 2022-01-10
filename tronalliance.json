@@ -1,11 +1,11 @@
 {
 	"name": "Tron Alliance List",
 	"logoURI": "https://list.tronalliance.cc/fav.ico",
-	"timestamp": 1639632508000,
+	"timestamp": 1641795213000,
 	"version": {
 		"major": 1,
 		"minor": 3,
-		"patch": 1
+		"patch": 2
 	},
 	"tokens": [{
 			"symbol": "USDC",
@@ -288,12 +288,12 @@
 			"logoURI": "https://coin.top/production/upload/logo/TDAB8XCoVpqwVUBG8TTpX6WjvNEJVvFRGi.png"
 		},
 		{
-			"symbol": "ERKE",
-			"name": "ERKE",
-			"address": "TMA9ma43rvdEZHygpDResKuQfuE2iide23",
+			"symbol": "RON",
+			"name": "Revolution",
+			"address": "TWaaMa462AUWGnKizYM17RuXKPv6Ej1xtE",
 			"chainId": 1,
 			"decimals": 6,
-			"logoURI": "https://coin.top/production/upload/logo/TMA9ma43rvdEZHygpDResKuQfuE2iide23.jpeg"
+			"logoURI": "https://coin.top/production/upload/logo/TWaaMa462AUWGnKizYM17RuXKPv6Ej1xtE.jpeg?t=1640941925973"
 		},
 		{
 			"symbol": "DLW",
@@ -302,6 +302,14 @@
 			"chainId": 1,
 			"decimals": 8,
 			"logoURI": "https://coin.top/production/upload/logo/TX8mKRD7CCvxh98rg7MdCGjtjSuHw9LSZg.png"
+		},
+		{
+			"symbol": "BK",
+			"name": "BaKe",
+			"address": "TQed9z9kTtXA7AVBVhh9n69X2yS6mAZ3wD",
+			"chainId": 1,
+			"decimals": 18,
+			"logoURI": "https://coin.top/production/upload/logo/TQed9z9kTtXA7AVBVhh9n69X2yS6mAZ3wD.jpeg?t=1624692589995"
 		},
 		{
 			"symbol": "CAVA",
@@ -320,12 +328,12 @@
 			"logoURI": "https://coin.top/production/upload/logo/TGQni2cxEXp6Lpj8q9C85to1CDFoLmvxXE.jpeg"
 		},
 		{
-			"symbol": "KLA",
-			"name": "KLA",
-			"address": "TP4nHN9cy7gv3GyEpWDmQKHAHpYXte1f5W",
+			"symbol": "FST",
+			"name": "FST",
+			"address": "TXVoDpZhLEFntuMjJ6m3P7yqEtKbcc2Cej",
 			"chainId": 1,
 			"decimals": 18,
-			"logoURI": "https://coin.top/production/upload/logo/TP4nHN9cy7gv3GyEpWDmQKHAHpYXte1f5W.png"
+			"logoURI": "https://coin.top/production/upload/logo/TXVoDpZhLEFntuMjJ6m3P7yqEtKbcc2Cej.png?t=1635923557072"
 		},
 		{
 			"symbol": "DXM",
@@ -344,20 +352,20 @@
 			"logoURI": "https://coin.top/production/upload/logo/TLXzq19DnaK48ktxjBLTvLbYBFRX2BWgcP.png"
 		},
 		{
-			"symbol": "CTH",
-			"name": "Payment chain",
-			"address": "TJmki9vmWXP6QxHJ9JVCd5iyAs8xwS5HL4",
+			"symbol": "KAY",
+			"name": "KAY",
+			"address": "TGZH1tzEshsbdphxekh5QdDtAnsykiSa4N",
 			"chainId": 1,
 			"decimals": 6,
-			"logoURI": "https://coin.top/production/upload/logo/TJmki9vmWXP6QxHJ9JVCd5iyAs8xwS5HL4.png"
+			"logoURI": "https://coin.top/production/upload/logo/TGZH1tzEshsbdphxekh5QdDtAnsykiSa4N.png?t=1634142848427"
 		},
 		{
-			"symbol": "GAF",
-			"name": "GAF TOKEN",
-			"address": "TM35sdAzzueBWLL3a8XDin3cZRhYuv3YaN",
+			"symbol": "STRAC",
+			"name": "Stock Right Coin",
+			"address": "TFVFbULw95Bj12hRELMdzHbjmEY5cx25sn",
 			"chainId": 1,
 			"decimals": 6,
-			"logoURI": "https://coin.top/production/upload/logo/TM35sdAzzueBWLL3a8XDin3cZRhYuv3YaN.jpeg"
+			"logoURI": "https://coin.top/production/upload/logo/TFVFbULw95Bj12hRELMdzHbjmEY5cx25sn.png?t=1631496763612"
 		},
 		{
 			"symbol": "YZS",
@@ -368,12 +376,36 @@
 			"logoURI": "https://coin.top/production/upload/logo/TJ4s4BRB1h8NHUAyCwsvRnBP571dVot6Sz.jpeg"
 		},
 		{
-			"symbol": "YLC",
-			"name": "Yuan Ling Coin",
-			"address": "THBLkKcqHQFTDbYTF3yYMnfYBRugb3WJZp",
+			"symbol": "POST",
+			"name": "POSToken",
+			"address": "TW46hVDA6TAiKyVrA8Ux3yBu2CWFVxqnZ3",
+			"chainId": 1,
+			"decimals": 6,
+			"logoURI": "https://coin.top/production/upload/logo/TW46hVDA6TAiKyVrA8Ux3yBu2CWFVxqnZ3.png?t=1628320711523"
+		},
+		{
+			"symbol": "FWT",
+			"name": "FWT",
+			"address": "TAcfhsJ26fU5u2rR9FVdnJAQVmfMV9xLhw",
+			"chainId": 1,
+			"decimals": 16,
+			"logoURI": "https://coin.top/production/upload/logo/TAcfhsJ26fU5u2rR9FVdnJAQVmfMV9xLhw.png?t=1640663309259"
+		},
+		{
+			"symbol": "CTH",
+			"name": "Payment chain",
+			"address": "TJmki9vmWXP6QxHJ9JVCd5iyAs8xwS5HL4",
+			"chainId": 1,
+			"decimals": 6,
+			"logoURI": "https://coin.top/production/upload/logo/TJmki9vmWXP6QxHJ9JVCd5iyAs8xwS5HL4.png?t=1635959234173"
+		},
+		{
+			"symbol": "RC",
+			"name": "RC Token",
+			"address": "TNByAcdw7U2QZPWdLRC13j1o8eTtKUkg3D",
 			"chainId": 1,
 			"decimals": 18,
-			"logoURI": "https://coin.top/production/upload/logo/THBLkKcqHQFTDbYTF3yYMnfYBRugb3WJZp.jpeg"
+			"logoURI": "https://coin.top/production/upload/logo/TNByAcdw7U2QZPWdLRC13j1o8eTtKUkg3D.png?t=1628416243529"
 		}
 	]
 
