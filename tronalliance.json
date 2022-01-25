@@ -430,7 +430,7 @@
             "address": "TTQYYAuR9njtUrnDert3RHiYZXHLfoFAAD",
             "chainId": 1,
             "decimals": 18,
-            "logoURI": ""
+            "logoURI": "https://coin.top/production/upload/logo/default.png"
         },
         {
             "symbol": "OLPC",
