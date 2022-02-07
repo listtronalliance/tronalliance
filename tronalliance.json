@@ -1,11 +1,11 @@
 {
     "name": "Tron Alliance List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
-    "timestamp": 1643101834000,
+    "timestamp": 1643356534000,
     "version": {
         "major": 1,
         "minor": 3,
-        "patch": 7
+        "patch": 8
     },
     "tokens": [
         {
@@ -17,28 +17,12 @@
             "logoURI": "https://coin.top/production/logo/usdtlogo.png"
         },
         {
-            "symbol": "USDJ",
-            "name": "JUST Stablecoin",
-            "address": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://coin.top/production/logo/usdj.png"
-        },
-        {
             "symbol": "BTC",
             "name": "Bitcoin",
             "address": "TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9",
             "chainId": 1,
             "decimals": 8,
             "logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png"
-        },
-        {
-            "symbol": "WBTT",
-            "name": "Wrapped BTT",
-            "address": "TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/logo/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png"
         },
         {
             "symbol": "JST",
@@ -57,6 +41,14 @@
             "logoURI": "https://coin.top/production/logo/TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4.png"
         },
         {
+            "symbol": "USDJ",
+            "name": "JUST Stablecoin",
+            "address": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/logo/usdj.png"
+        },
+        {
             "symbol": "USDC",
             "name": "USD Coin",
             "address": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
@@ -71,6 +63,14 @@
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://coin.top/production/upload/logo/TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq.png"
+        },
+        {
+            "symbol": "WBTT",
+            "name": "Wrapped BTT",
+            "address": "TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/logo/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png"
         },
         {
             "symbol": "WIN",
@@ -95,6 +95,14 @@
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
+        },
+        {
+            "symbol": "BTT",
+            "name": "BitTorrent",
+            "address": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/logo/1002000.png"
         },
         {
             "symbol": "WETH",
@@ -161,14 +169,6 @@
             "logoURI": "https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png?t=1598430824415"
         },
         {
-            "symbol": "BTT",
-            "name": "BitTorrent",
-            "address": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://coin.top/production/logo/1002000.png"
-        },
-        {
             "symbol": "OSK",
             "name": "OSK",
             "address": "TDk91SWz2GvwfZwMTGX21d4ngUUH8YZZAv",
@@ -217,14 +217,6 @@
             "logoURI": "https://coin.top/production/upload/logo/TKGaR7hWDqm4k4U1MSHrK5LWgteSXbTuKx.jpeg?t=1620014171489"
         },
         {
-            "symbol": "FIST",
-            "name": "FistToken",
-            "address": "TL6K6iaEkn8kdnJ79a8Be3S4RFf4pFkGE8",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TL6K6iaEkn8kdnJ79a8Be3S4RFf4pFkGE8.png?t=1600420149866"
-        },
-        {
             "symbol": "DEB",
             "name": "DEB",
             "address": "TJkyDfnRFDrB2ZKVpAT4Uyn5oarfAcsc21",
@@ -233,28 +225,12 @@
             "logoURI": "https://coin.top/production/upload/logo/TJkyDfnRFDrB2ZKVpAT4Uyn5oarfAcsc21.png?t=1625644438999"
         },
         {
-            "symbol": "BINLI",
-            "name": "BINLI",
-            "address": "TGQni2cxEXp6Lpj8q9C85to1CDFoLmvxXE",
+            "symbol": "FIST",
+            "name": "FistToken",
+            "address": "TL6K6iaEkn8kdnJ79a8Be3S4RFf4pFkGE8",
             "chainId": 1,
             "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TGQni2cxEXp6Lpj8q9C85to1CDFoLmvxXE.jpeg?t=1628305340336"
-        },
-        {
-            "symbol": "LUMI",
-            "name": "LUMI Credits",
-            "address": "TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN.png?t=1626055302160"
-        },
-        {
-            "symbol": "RON",
-            "name": "Revolution",
-            "address": "TWaaMa462AUWGnKizYM17RuXKPv6Ej1xtE",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TWaaMa462AUWGnKizYM17RuXKPv6Ej1xtE.jpeg?t=1640941925973"
+            "logoURI": "https://coin.top/production/upload/logo/TL6K6iaEkn8kdnJ79a8Be3S4RFf4pFkGE8.png?t=1600420149866"
         },
         {
             "symbol": "YZS",
@@ -265,28 +241,12 @@
             "logoURI": "https://coin.top/production/upload/logo/TJ4s4BRB1h8NHUAyCwsvRnBP571dVot6Sz.jpeg?t=1634196550865"
         },
         {
-            "symbol": "STAR",
-            "name": "StarCoin",
-            "address": "TA74PoX3vgpZfghFJDB3sog7mfYRkjWQwW",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://coin.top/production/upload/logo/TA74PoX3vgpZfghFJDB3sog7mfYRkjWQwW.jpeg?t=1630031922251"
-        },
-        {
-            "symbol": "FS",
-            "name": "Financial supermarket",
-            "address": "TRaH6Q1XRXetdpQfctmGMKGwyq7iV3zppk",
-            "chainId": 1,
-            "decimals": 8,
-            "logoURI": "https://coin.top/production/upload/logo/TRaH6Q1XRXetdpQfctmGMKGwyq7iV3zppk.png?t=1623498666235"
-        },
-        {
-            "symbol": "KAY",
-            "name": "KAY",
-            "address": "TGZH1tzEshsbdphxekh5QdDtAnsykiSa4N",
+            "symbol": "RON",
+            "name": "Revolution",
+            "address": "TWaaMa462AUWGnKizYM17RuXKPv6Ej1xtE",
             "chainId": 1,
             "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TGZH1tzEshsbdphxekh5QdDtAnsykiSa4N.png?t=1634142848427"
+            "logoURI": "https://coin.top/production/upload/logo/TWaaMa462AUWGnKizYM17RuXKPv6Ej1xtE.jpeg?t=1640941925973"
         },
         {
             "symbol": "LGT",
@@ -297,12 +257,28 @@
             "logoURI": "https://coin.top/production/upload/logo/TJmhYD2wTz19SCUWnwearVRRQC5BgKT7tJ.png?t=1626866073971"
         },
         {
-            "symbol": "PDT",
-            "name": "Parallel Universe Token",
-            "address": "TFpqLdyzdSnfEGMrZR4d3R3gb5Nt2jDgmz",
+            "symbol": "BINLI",
+            "name": "BINLI",
+            "address": "TGQni2cxEXp6Lpj8q9C85to1CDFoLmvxXE",
             "chainId": 1,
             "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TFpqLdyzdSnfEGMrZR4d3R3gb5Nt2jDgmz.png?t=1636618843166"
+            "logoURI": "https://coin.top/production/upload/logo/TGQni2cxEXp6Lpj8q9C85to1CDFoLmvxXE.jpeg?t=1628305340336"
+        },
+        {
+            "symbol": "STAR",
+            "name": "StarCoin",
+            "address": "TA74PoX3vgpZfghFJDB3sog7mfYRkjWQwW",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/upload/logo/TA74PoX3vgpZfghFJDB3sog7mfYRkjWQwW.jpeg?t=1630031922251"
+        },
+        {
+            "symbol": "KAY",
+            "name": "KAY",
+            "address": "TGZH1tzEshsbdphxekh5QdDtAnsykiSa4N",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TGZH1tzEshsbdphxekh5QdDtAnsykiSa4N.png?t=1634142848427"
         },
         {
             "symbol": "GCB",
@@ -313,12 +289,28 @@
             "logoURI": "https://coin.top/production/upload/logo/TDAB8XCoVpqwVUBG8TTpX6WjvNEJVvFRGi.png?t=1618052043352"
         },
         {
+            "symbol": "FS",
+            "name": "Financial supermarket",
+            "address": "TRaH6Q1XRXetdpQfctmGMKGwyq7iV3zppk",
+            "chainId": 1,
+            "decimals": 8,
+            "logoURI": "https://coin.top/production/upload/logo/TRaH6Q1XRXetdpQfctmGMKGwyq7iV3zppk.png?t=1623498666235"
+        },
+        {
             "symbol": "META",
             "name": "META Token",
             "address": "TY5WnpU6bLxKrrAaa7JSQht1sPdgU4hkyk",
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://coin.top/production/upload/logo/TY5WnpU6bLxKrrAaa7JSQht1sPdgU4hkyk.png?t=1635758985693"
+        },
+        {
+            "symbol": "PDT",
+            "name": "Parallel Universe Token",
+            "address": "TFpqLdyzdSnfEGMrZR4d3R3gb5Nt2jDgmz",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TFpqLdyzdSnfEGMrZR4d3R3gb5Nt2jDgmz.png?t=1636618843166"
         },
         {
             "symbol": "NTC",
@@ -329,20 +321,28 @@
             "logoURI": "https://coin.top/production/upload/logo/TBLmTW1VsKP62sjvrXrmuWo959HbyJg6wV.png?t=1640436594850"
         },
         {
-            "symbol": "888",
-            "name": "888Tron",
-            "address": "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
-        },
-        {
             "symbol": "YBC",
             "name": "YBC",
             "address": "TLXzq19DnaK48ktxjBLTvLbYBFRX2BWgcP",
             "chainId": 1,
             "decimals": 8,
             "logoURI": "https://coin.top/production/upload/logo/TLXzq19DnaK48ktxjBLTvLbYBFRX2BWgcP.png?t=1630809081001"
+        },
+        {
+            "symbol": "HTU66",
+            "name": "HTU66 Token",
+            "address": "TFHARNasoJgWV4VVADfjLJQ59qYVp68LTU",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TFHARNasoJgWV4VVADfjLJQ59qYVp68LTU.png?t=1639461286738"
+        },
+        {
+            "symbol": "JHB",
+            "name": "JHB",
+            "address": "TNQwHfwLcAPXtCfxTwuXsSKcY6s8hBvbVr",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/upload/logo/TNQwHfwLcAPXtCfxTwuXsSKcY6s8hBvbVr.jpeg?t=1631890134103"
         },
         {
             "symbol": "YRZ",
@@ -353,12 +353,28 @@
             "logoURI": "https://coin.top/production/upload/logo/TNpq9qYnESzVZHtcFVdpAkHLBCZXYDy6xi.png?t=1641654077928"
         },
         {
-            "symbol": "JHB",
-            "name": "JHB",
-            "address": "TNQwHfwLcAPXtCfxTwuXsSKcY6s8hBvbVr",
+            "symbol": "FAMP",
+            "name": "Fs-Asset Management Platform",
+            "address": "TPQTCJSQs1ukGTZnAt6oEEF3zPv91F96PQ",
             "chainId": 1,
             "decimals": 18,
-            "logoURI": "https://coin.top/production/upload/logo/TNQwHfwLcAPXtCfxTwuXsSKcY6s8hBvbVr.jpeg?t=1631890134103"
+            "logoURI": "https://coin.top/production/upload/logo/TPQTCJSQs1ukGTZnAt6oEEF3zPv91F96PQ.png?t=1628667278528"
+        },
+        {
+            "symbol": "KLA",
+            "name": "KLA",
+            "address": "TP4nHN9cy7gv3GyEpWDmQKHAHpYXte1f5W",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/upload/logo/TP4nHN9cy7gv3GyEpWDmQKHAHpYXte1f5W.png?t=1627708034586"
+        },
+        {
+            "symbol": "DLW",
+            "name": "DLW",
+            "address": "TX8mKRD7CCvxh98rg7MdCGjtjSuHw9LSZg",
+            "chainId": 1,
+            "decimals": 8,
+            "logoURI": "https://coin.top/production/upload/logo/TX8mKRD7CCvxh98rg7MdCGjtjSuHw9LSZg.png?t=1638863153606"
         },
         {
             "symbol": "DXM",
@@ -377,36 +393,12 @@
             "logoURI": "https://coin.top/production/upload/logo/TXVoDpZhLEFntuMjJ6m3P7yqEtKbcc2Cej.png?t=1635923557072"
         },
         {
-            "symbol": "DLW",
-            "name": "DLW",
-            "address": "TX8mKRD7CCvxh98rg7MdCGjtjSuHw9LSZg",
-            "chainId": 1,
-            "decimals": 8,
-            "logoURI": "https://coin.top/production/upload/logo/TX8mKRD7CCvxh98rg7MdCGjtjSuHw9LSZg.png?t=1638863153606"
-        },
-        {
             "symbol": "RC",
             "name": "RC Token",
             "address": "TNByAcdw7U2QZPWdLRC13j1o8eTtKUkg3D",
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://coin.top/production/upload/logo/TNByAcdw7U2QZPWdLRC13j1o8eTtKUkg3D.png?t=1628416243529"
-        },
-        {
-            "symbol": "HTU66",
-            "name": "HTU66 Token",
-            "address": "TFHARNasoJgWV4VVADfjLJQ59qYVp68LTU",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TFHARNasoJgWV4VVADfjLJQ59qYVp68LTU.png?t=1639461286738"
-        },
-        {
-            "symbol": "KLA",
-            "name": "KLA",
-            "address": "TP4nHN9cy7gv3GyEpWDmQKHAHpYXte1f5W",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://coin.top/production/upload/logo/TP4nHN9cy7gv3GyEpWDmQKHAHpYXte1f5W.png?t=1627708034586"
         },
         {
             "symbol": "HQC",
@@ -417,12 +409,28 @@
             "logoURI": "https://coin.top/production/upload/logo/TDc1rtiY9PES9iKuLhs1q8Kf4zRBVNBy5R.png?t=1635425532799"
         },
         {
-            "symbol": "GAF",
-            "name": "GAF TOKEN",
-            "address": "TM35sdAzzueBWLL3a8XDin3cZRhYuv3YaN",
+            "symbol": "HX",
+            "name": "HX",
+            "address": "THqRrG8wFawSgMGrw8u2Kua8KWgw186Jkr",
             "chainId": 1,
             "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TM35sdAzzueBWLL3a8XDin3cZRhYuv3YaN.jpeg?t=1619446533623"
+            "logoURI": "https://coin.top/production/upload/logo/THqRrG8wFawSgMGrw8u2Kua8KWgw186Jkr.jpeg?t=1641867447624"
+        },
+        {
+            "symbol": "CTH",
+            "name": "Payment chain",
+            "address": "TJmki9vmWXP6QxHJ9JVCd5iyAs8xwS5HL4",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TJmki9vmWXP6QxHJ9JVCd5iyAs8xwS5HL4.png?t=1635959234173"
+        },
+        {
+            "symbol": "OLPC",
+            "name": "OLPC",
+            "address": "TEFekRZZ9B8fX26AYjdBjHizxTKETKHupK",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TEFekRZZ9B8fX26AYjdBjHizxTKETKHupK.jpeg?t=1632166092155"
         },
         {
             "symbol": "FTD",
@@ -433,12 +441,20 @@
             "logoURI": "https://coin.top/production/upload/logo/default.png"
         },
         {
-            "symbol": "OLPC",
-            "name": "OLPC",
-            "address": "TEFekRZZ9B8fX26AYjdBjHizxTKETKHupK",
+            "symbol": "FACAI",
+            "name": "FACAI",
+            "address": "THenfwA3eyJBZkfgd1n7ASrkcCFZM4d34W",
             "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TEFekRZZ9B8fX26AYjdBjHizxTKETKHupK.jpeg?t=1632166092155"
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/upload/logo/THenfwA3eyJBZkfgd1n7ASrkcCFZM4d34W.png?t=1619339607909"
+        },
+        {
+            "symbol": "FHT",
+            "name": "FHT",
+            "address": "TWjUXVYQtcsDM678DpnBkRJ2FnQ8g9H4U2",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/upload/logo/TWjUXVYQtcsDM678DpnBkRJ2FnQ8g9H4U2.jpeg?t=1638777856425"
         }
     ]
 }
