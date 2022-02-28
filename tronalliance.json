@@ -5,7 +5,7 @@
     "version": {
         "major": 1,
         "minor": 3,
-        "patch": 17
+        "patch": 18
     },
     "tokens": [
         {
@@ -167,14 +167,6 @@
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://coin.top/production/logo/TXWkP3jLBqRGojUih1ShzNyDaN5Csnebok.png"
-        },
-        {
-            "symbol": "LUMI",
-            "name": "LUMI Credits",
-            "address": "TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN.png?t=1626055302160"
         },
         {
             "symbol": "FTD",
