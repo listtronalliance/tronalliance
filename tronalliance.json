@@ -1,11 +1,11 @@
 {
     "name": "Tron Alliance List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
-    "timestamp": 1646074027000,
+    "timestamp": 1646074030000,
     "version": {
         "major": 1,
         "minor": 3,
-        "patch": 15
+        "patch": 17
     },
     "tokens": [
         {
@@ -183,30 +183,6 @@
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://coin.top/production/upload/logo/default.png"
-        },
-        {
-            "symbol": "DXM",
-            "name": "panda",
-            "address": "TEoPMYFa5zPP1SayeXkAqZSAmf7VkqNv2w",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TEoPMYFa5zPP1SayeXkAqZSAmf7VkqNv2w.png?t=1620637039183"
-        },
-        {
-            "symbol": "888",
-            "name": "888Tron",
-            "address": "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
-        },
-        {
-            "symbol": "PDT",
-            "name": "Parallel Universe Token",
-            "address": "TFpqLdyzdSnfEGMrZR4d3R3gb5Nt2jDgmz",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TFpqLdyzdSnfEGMrZR4d3R3gb5Nt2jDgmz.png?t=1636618843166"
         },
         {
             "symbol": "TOPONE",
