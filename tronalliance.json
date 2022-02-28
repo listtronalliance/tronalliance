@@ -169,14 +169,6 @@
             "logoURI": "https://coin.top/production/logo/TXWkP3jLBqRGojUih1ShzNyDaN5Csnebok.png"
         },
         {
-            "symbol": "CN",
-            "name": "BreedTech",
-            "address": "TGTE9Eo4hrkotStM1iGHSKA7gobxZxPuwQ",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TGTE9Eo4hrkotStM1iGHSKA7gobxZxPuwQ.png?t=1629965231991"
-        },
-        {
             "symbol": "LUMI",
             "name": "LUMI Credits",
             "address": "TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN",
