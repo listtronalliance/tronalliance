@@ -223,14 +223,6 @@
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://coin.top/production/upload/logo/TLGpmtJf6C7ek3XdAKZXTKdTgYtdswoVai.png?t=1645529602667"
-        },
-        {
-            "symbol": "YBC",
-            "name": "YBC",
-            "address": "TLXzq19DnaK48ktxjBLTvLbYBFRX2BWgcP",
-            "chainId": 1,
-            "decimals": 8,
-            "logoURI": "https://coin.top/production/upload/logo/TLXzq19DnaK48ktxjBLTvLbYBFRX2BWgcP.png?t=1630809081001"
         }
     ]
 }
