@@ -1,11 +1,11 @@
 {
     "name": "Tron Alliance List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
-    "timestamp": 1649217288000,
+    "timestamp": 1649392098000,
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 10
+        "patch": 11
     },
     "tokens": [
         {
@@ -201,6 +201,14 @@
             "logoURI": "https://coin.top/production/upload/logo/TUjwNG28iEa18s8WVnbxChu7g6SN2VCxUP.png?t=1645510767490"
         },
         {
+            "symbol": "LGT",
+            "name": "LianGoToken",
+            "address": "TJmhYD2wTz19SCUWnwearVRRQC5BgKT7tJ",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TJmhYD2wTz19SCUWnwearVRRQC5BgKT7tJ.png?t=1626866073971"
+        },
+        {
             "symbol": "RON",
             "name": "Revolution",
             "address": "TWaaMa462AUWGnKizYM17RuXKPv6Ej1xtE",
@@ -215,14 +223,6 @@
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://coin.top/production/upload/logo/TA74PoX3vgpZfghFJDB3sog7mfYRkjWQwW.jpeg?t=1630031922251"
-        },
-        {
-            "symbol": "LGT",
-            "name": "LianGoToken",
-            "address": "TJmhYD2wTz19SCUWnwearVRRQC5BgKT7tJ",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TJmhYD2wTz19SCUWnwearVRRQC5BgKT7tJ.png?t=1626866073971"
         },
         {
             "symbol": "HXB",
@@ -265,20 +265,20 @@
             "logoURI": "https://coin.top/production/upload/logo/TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB.png?t=1634803352024"
         },
         {
-            "symbol": "JHB",
-            "name": "JHB",
-            "address": "TNQwHfwLcAPXtCfxTwuXsSKcY6s8hBvbVr",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://coin.top/production/upload/logo/TNQwHfwLcAPXtCfxTwuXsSKcY6s8hBvbVr.jpeg?t=1631890134103"
-        },
-        {
             "symbol": "STRAC",
             "name": "Stock Right Coin",
             "address": "TFVFbULw95Bj12hRELMdzHbjmEY5cx25sn",
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://coin.top/production/upload/logo/TFVFbULw95Bj12hRELMdzHbjmEY5cx25sn.png?t=1631496763612"
+        },
+        {
+            "symbol": "JHB",
+            "name": "JHB",
+            "address": "TNQwHfwLcAPXtCfxTwuXsSKcY6s8hBvbVr",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/upload/logo/TNQwHfwLcAPXtCfxTwuXsSKcY6s8hBvbVr.jpeg?t=1631890134103"
         },
         {
             "symbol": "NTC",
@@ -305,6 +305,14 @@
             "logoURI": "https://coin.top/production/upload/logo/TYrHJbBbjXo8F1r1JqqgcFzAzC9NCKYf2r.png?t=1635495944842"
         },
         {
+            "symbol": "LUMI",
+            "name": "LUMI Credits",
+            "address": "TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN.png?t=1626055302160"
+        },
+        {
             "symbol": "BT",
             "name": "BOT TOM",
             "address": "TJu3oDQD2zhfhJvBGuf1QoBqLameXrU2bM",
@@ -327,14 +335,6 @@
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://coin.top/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
-        },
-        {
-            "symbol": "DFG",
-            "name": "DFG",
-            "address": "TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49.png?t=1636110939029"
         },
         {
             "symbol": "DXM",
@@ -369,20 +369,12 @@
             "logoURI": "https://coin.top/production/upload/logo/TAzopbXcjczXr12k8uaXH1Adg9gpFKuUE3.png?t=1617676633524"
         },
         {
-            "symbol": "RT",
-            "name": "RTToken",
-            "address": "TRVJESCyfEEK9dyWPD9zDyt1tpL78ncn7H",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://coin.top/production/upload/logo/TRVJESCyfEEK9dyWPD9zDyt1tpL78ncn7H.png?t=1646753489805"
-        },
-        {
-            "symbol": "LUMI",
-            "name": "LUMI Credits",
-            "address": "TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN",
+            "symbol": "DFG",
+            "name": "DFG",
+            "address": "TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49",
             "chainId": 1,
             "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN.png?t=1626055302160"
+            "logoURI": "https://coin.top/production/upload/logo/TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49.png?t=1636110939029"
         },
         {
             "symbol": "TX",
