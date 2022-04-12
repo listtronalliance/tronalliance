@@ -1,11 +1,11 @@
 {
     "name": "Tron Alliance List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
-    "timestamp": 1649392098000,
+    "timestamp": 1649742149000,
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 11
+        "patch": 12
     },
     "tokens": [
         {
@@ -73,20 +73,20 @@
             "logoURI": "https://coin.top/production/logo/1002000.png"
         },
         {
-            "symbol": "WIN",
-            "name": "WINK",
-            "address": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg"
-        },
-        {
             "symbol": "WBTT",
             "name": "Wrapped BTT",
             "address": "TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://coin.top/production/logo/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png"
+        },
+        {
+            "symbol": "WIN",
+            "name": "WINK",
+            "address": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg"
         },
         {
             "symbol": "ETH",
@@ -209,14 +209,6 @@
             "logoURI": "https://coin.top/production/upload/logo/TJmhYD2wTz19SCUWnwearVRRQC5BgKT7tJ.png?t=1626866073971"
         },
         {
-            "symbol": "RON",
-            "name": "Revolution",
-            "address": "TWaaMa462AUWGnKizYM17RuXKPv6Ej1xtE",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TWaaMa462AUWGnKizYM17RuXKPv6Ej1xtE.jpeg?t=1640941925973"
-        },
-        {
             "symbol": "STAR",
             "name": "StarCoin",
             "address": "TA74PoX3vgpZfghFJDB3sog7mfYRkjWQwW",
@@ -225,20 +217,12 @@
             "logoURI": "https://coin.top/production/upload/logo/TA74PoX3vgpZfghFJDB3sog7mfYRkjWQwW.jpeg?t=1630031922251"
         },
         {
-            "symbol": "HXB",
-            "name": "HXB token",
-            "address": "TKGaR7hWDqm4k4U1MSHrK5LWgteSXbTuKx",
+            "symbol": "RON",
+            "name": "Revolution",
+            "address": "TWaaMa462AUWGnKizYM17RuXKPv6Ej1xtE",
             "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://coin.top/production/upload/logo/TKGaR7hWDqm4k4U1MSHrK5LWgteSXbTuKx.jpeg?t=1620014171489"
-        },
-        {
-            "symbol": "FHT",
-            "name": "FHT",
-            "address": "TWjUXVYQtcsDM678DpnBkRJ2FnQ8g9H4U2",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://coin.top/production/upload/logo/TWjUXVYQtcsDM678DpnBkRJ2FnQ8g9H4U2.jpeg?t=1638777856425"
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TWaaMa462AUWGnKizYM17RuXKPv6Ej1xtE.jpeg?t=1640941925973"
         },
         {
             "symbol": "FTD",
@@ -247,6 +231,14 @@
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://coin.top/production/upload/logo/default.png"
+        },
+        {
+            "symbol": "FHT",
+            "name": "FHT",
+            "address": "TWjUXVYQtcsDM678DpnBkRJ2FnQ8g9H4U2",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/upload/logo/TWjUXVYQtcsDM678DpnBkRJ2FnQ8g9H4U2.jpeg?t=1638777856425"
         },
         {
             "symbol": "CAVA",
@@ -263,6 +255,14 @@
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://coin.top/production/upload/logo/TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB.png?t=1634803352024"
+        },
+        {
+            "symbol": "HXB",
+            "name": "HXB token",
+            "address": "TKGaR7hWDqm4k4U1MSHrK5LWgteSXbTuKx",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/upload/logo/TKGaR7hWDqm4k4U1MSHrK5LWgteSXbTuKx.jpeg?t=1620014171489"
         },
         {
             "symbol": "STRAC",
@@ -305,20 +305,20 @@
             "logoURI": "https://coin.top/production/upload/logo/TYrHJbBbjXo8F1r1JqqgcFzAzC9NCKYf2r.png?t=1635495944842"
         },
         {
-            "symbol": "LUMI",
-            "name": "LUMI Credits",
-            "address": "TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN.png?t=1626055302160"
-        },
-        {
             "symbol": "BT",
             "name": "BOT TOM",
             "address": "TJu3oDQD2zhfhJvBGuf1QoBqLameXrU2bM",
             "chainId": 1,
             "decimals": 8,
             "logoURI": "https://coin.top/production/upload/logo/TJu3oDQD2zhfhJvBGuf1QoBqLameXrU2bM.png?t=1644396355389"
+        },
+        {
+            "symbol": "LUMI",
+            "name": "LUMI Credits",
+            "address": "TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN.png?t=1626055302160"
         },
         {
             "symbol": "GCB",
@@ -329,12 +329,12 @@
             "logoURI": "https://coin.top/production/upload/logo/TDAB8XCoVpqwVUBG8TTpX6WjvNEJVvFRGi.png?t=1618052043352"
         },
         {
-            "symbol": "888",
-            "name": "888Tron",
-            "address": "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3",
+            "symbol": "DFG",
+            "name": "DFG",
+            "address": "TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49",
             "chainId": 1,
             "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
+            "logoURI": "https://coin.top/production/upload/logo/TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49.png?t=1636110939029"
         },
         {
             "symbol": "DXM",
@@ -353,14 +353,6 @@
             "logoURI": "https://coin.top/production/upload/logo/TRo6yF4oTUsVgTymFZvDUW6szTmsvdFQgW.jpeg?t=1646194393819"
         },
         {
-            "symbol": "HQC",
-            "name": "HQCOIN",
-            "address": "TDc1rtiY9PES9iKuLhs1q8Kf4zRBVNBy5R",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://coin.top/production/upload/logo/TDc1rtiY9PES9iKuLhs1q8Kf4zRBVNBy5R.png?t=1635425532799"
-        },
-        {
             "symbol": "Milk",
             "name": "Milk",
             "address": "TAzopbXcjczXr12k8uaXH1Adg9gpFKuUE3",
@@ -369,12 +361,12 @@
             "logoURI": "https://coin.top/production/upload/logo/TAzopbXcjczXr12k8uaXH1Adg9gpFKuUE3.png?t=1617676633524"
         },
         {
-            "symbol": "DFG",
-            "name": "DFG",
-            "address": "TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49",
+            "symbol": "888",
+            "name": "888Tron",
+            "address": "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3",
             "chainId": 1,
             "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49.png?t=1636110939029"
+            "logoURI": "https://coin.top/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
         },
         {
             "symbol": "TX",
