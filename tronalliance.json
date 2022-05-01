@@ -1,13 +1,21 @@
 {
     "name": "Tron Alliance List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
-    "timestamp": 1651391277000,
+    "timestamp": 1651405846000,
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 18
+        "patch": 19
     },
     "tokens": [
+        {
+            "symbol": "USDD",
+            "name": "Decentralized USD",
+            "address": "TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/upload/logo/TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn.svg"
+        },
         {   
             "symbol": "USDT",
             "name": "Tether USD",
@@ -335,14 +343,6 @@
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://coin.top/production/upload/logo/TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49.png?t=1636110939029"
-        },
-        {
-            "symbol": "USDD",
-            "name": "Decentralized USD",
-            "address": "TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://coin.top/production/upload/logo/TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn.svg"
         }
     ]
 }
