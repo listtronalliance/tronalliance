@@ -1,22 +1,14 @@
 {
     "name": "Tron Alliance List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
-    "timestamp": 1651405846000,
+    "timestamp": 1651823032000,
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 19
+        "patch": 20
     },
     "tokens": [
         {
-            "symbol": "USDD",
-            "name": "Decentralized USD",
-            "address": "TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://coin.top/production/upload/logo/TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn.svg"
-        },
-        {   
             "symbol": "USDT",
             "name": "Tether USD",
             "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
@@ -31,6 +23,14 @@
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://coin.top/production/upload/logo/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz81.png"
+        },
+        {
+            "symbol": "USDD",
+            "name": "Decentralized USD",
+            "address": "TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/upload/logo/TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn.png"
         },
         {
             "symbol": "USDJ",
@@ -193,6 +193,14 @@
             "logoURI": "https://coin.top/production/upload/logo/TUjwNG28iEa18s8WVnbxChu7g6SN2VCxUP.png?t=1645510767490"
         },
         {
+            "symbol": "META",
+            "name": "META Token",
+            "address": "TY5WnpU6bLxKrrAaa7JSQht1sPdgU4hkyk",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/upload/logo/TY5WnpU6bLxKrrAaa7JSQht1sPdgU4hkyk.png?t=1635758985693"
+        },
+        {
             "symbol": "RON",
             "name": "Revolution",
             "address": "TWaaMa462AUWGnKizYM17RuXKPv6Ej1xtE",
@@ -217,6 +225,14 @@
             "logoURI": "https://coin.top/production/upload/logo/TWjUXVYQtcsDM678DpnBkRJ2FnQ8g9H4U2.jpeg?t=1638777856425"
         },
         {
+            "symbol": "CAVA",
+            "name": "CAVA TOKEN",
+            "address": "TZ9d1eaHuvW9danNbwtxg4CyNaAEHKH1cm",
+            "chainId": 1,
+            "decimals": 8,
+            "logoURI": "https://coin.top/production/upload/logo/TZ9d1eaHuvW9danNbwtxg4CyNaAEHKH1cm.png?t=1627621383581"
+        },
+        {
             "symbol": "STAR",
             "name": "StarCoin",
             "address": "TA74PoX3vgpZfghFJDB3sog7mfYRkjWQwW",
@@ -233,12 +249,12 @@
             "logoURI": "https://coin.top/production/upload/logo/TJmhYD2wTz19SCUWnwearVRRQC5BgKT7tJ.png?t=1626866073971"
         },
         {
-            "symbol": "CAVA",
-            "name": "CAVA TOKEN",
-            "address": "TZ9d1eaHuvW9danNbwtxg4CyNaAEHKH1cm",
+            "symbol": "MST",
+            "name": "Metacosmic system token",
+            "address": "TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB",
             "chainId": 1,
-            "decimals": 8,
-            "logoURI": "https://coin.top/production/upload/logo/TZ9d1eaHuvW9danNbwtxg4CyNaAEHKH1cm.png?t=1627621383581"
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/upload/logo/TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB.png?t=1634803352024"
         },
         {
             "symbol": "STRAC",
@@ -247,14 +263,6 @@
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://coin.top/production/upload/logo/TFVFbULw95Bj12hRELMdzHbjmEY5cx25sn.png?t=1631496763612"
-        },
-        {
-            "symbol": "MST",
-            "name": "Metacosmic system token",
-            "address": "TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://coin.top/production/upload/logo/TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB.png?t=1634803352024"
         },
         {
             "symbol": "NTC",
@@ -289,14 +297,6 @@
             "logoURI": "https://coin.top/production/upload/logo/TYrHJbBbjXo8F1r1JqqgcFzAzC9NCKYf2r.png?t=1635495944842"
         },
         {
-            "symbol": "888",
-            "name": "888Tron",
-            "address": "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
-        },
-        {
             "symbol": "TX",
             "name": "TX Token",
             "address": "THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC",
@@ -313,20 +313,12 @@
             "logoURI": "https://coin.top/production/upload/logo/TAzopbXcjczXr12k8uaXH1Adg9gpFKuUE3.png?t=1617676633524"
         },
         {
-            "symbol": "META",
-            "name": "META",
-            "address": "TPvyF8CD6eknF7hgfoZgZ9capryqQALQ52",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://coin.top/production/upload/logo/TPvyF8CD6eknF7hgfoZgZ9capryqQALQ52.png?t=1640323730407"
-        },
-        {
-            "symbol": "CWF",
-            "name": "CWF",
-            "address": "TXbdEhJSwd3dEvTEDAkr8yPmzigJjpg59e",
+            "symbol": "888",
+            "name": "888Tron",
+            "address": "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3",
             "chainId": 1,
             "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TXbdEhJSwd3dEvTEDAkr8yPmzigJjpg59e.png?t=1638757462885"
+            "logoURI": "https://coin.top/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
         },
         {
             "symbol": "LUMI",
