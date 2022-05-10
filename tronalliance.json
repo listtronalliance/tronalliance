@@ -1,11 +1,11 @@
 {
     "name": "Tron Alliance List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
-    "timestamp": 1651823032000,
+    "timestamp": 1652162853000,
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 20
+        "patch": 21
     },
     "tokens": [
         {
@@ -281,12 +281,12 @@
             "logoURI": "https://coin.top/production/upload/logo/TFHARNasoJgWV4VVADfjLJQ59qYVp68LTU.png?t=1639461286738"
         },
         {
-            "symbol": "GCB",
-            "name": "GCB",
-            "address": "TDAB8XCoVpqwVUBG8TTpX6WjvNEJVvFRGi",
+            "symbol": "888",
+            "name": "888Tron",
+            "address": "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3",
             "chainId": 1,
-            "decimals": 16,
-            "logoURI": "https://coin.top/production/upload/logo/TDAB8XCoVpqwVUBG8TTpX6WjvNEJVvFRGi.png?t=1618052043352"
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
         },
         {
             "symbol": "APCH",
@@ -295,6 +295,14 @@
             "chainId": 1,
             "decimals": 8,
             "logoURI": "https://coin.top/production/upload/logo/TYrHJbBbjXo8F1r1JqqgcFzAzC9NCKYf2r.png?t=1635495944842"
+        },
+        {
+            "symbol": "DFG",
+            "name": "DFG",
+            "address": "TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49.png?t=1636110939029"
         },
         {
             "symbol": "TX",
@@ -313,28 +321,12 @@
             "logoURI": "https://coin.top/production/upload/logo/TAzopbXcjczXr12k8uaXH1Adg9gpFKuUE3.png?t=1617676633524"
         },
         {
-            "symbol": "888",
-            "name": "888Tron",
-            "address": "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
-        },
-        {
             "symbol": "LUMI",
             "name": "LUMI Credits",
             "address": "TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN",
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://coin.top/production/upload/logo/TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN.png?t=1626055302160"
-        },
-        {
-            "symbol": "DFG",
-            "name": "DFG",
-            "address": "TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49.png?t=1636110939029"
         }
     ]
 }
