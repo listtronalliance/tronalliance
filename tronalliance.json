@@ -1,11 +1,11 @@
 {
     "name": "Tron Alliance List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
-    "timestamp": 1652162853000,
+    "timestamp": 1652412508000,
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 21
+        "patch": 22
     },
     "tokens": [
         {
@@ -25,20 +25,20 @@
             "logoURI": "https://coin.top/production/upload/logo/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz81.png"
         },
         {
-            "symbol": "USDD",
-            "name": "Decentralized USD",
-            "address": "TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://coin.top/production/upload/logo/TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn.png"
-        },
-        {
             "symbol": "USDJ",
             "name": "JUST Stablecoin",
             "address": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://coin.top/production/logo/usdj.png"
+        },
+        {
+            "symbol": "USDD",
+            "name": "Decentralized USD",
+            "address": "TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/upload/logo/TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn.png"
         },
         {
             "symbol": "TUSD",
@@ -73,14 +73,6 @@
             "logoURI": "https://coin.top/production/logo/TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S.png"
         },
         {
-            "symbol": "BTT",
-            "name": "BitTorrent",
-            "address": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://coin.top/production/logo/1002000.png"
-        },
-        {
             "symbol": "WBTT",
             "name": "Wrapped BTT",
             "address": "TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
@@ -89,20 +81,20 @@
             "logoURI": "https://coin.top/production/logo/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png"
         },
         {
+            "symbol": "BTT",
+            "name": "BitTorrent",
+            "address": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/logo/1002000.png"
+        },
+        {
             "symbol": "WIN",
             "name": "WINK",
             "address": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg"
-        },
-        {
-            "symbol": "ETH",
-            "name": "Ethereum",
-            "address": "THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
         },
         {
             "symbol": "BTC",
@@ -119,6 +111,14 @@
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://coin.top/production/upload/logo/TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9.png"
+        },
+        {
+            "symbol": "ETH",
+            "name": "Ethereum",
+            "address": "THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
         },
         {
             "symbol": "LIVE",
@@ -217,14 +217,6 @@
             "logoURI": "https://coin.top/production/upload/logo/default.png"
         },
         {
-            "symbol": "FHT",
-            "name": "FHT",
-            "address": "TWjUXVYQtcsDM678DpnBkRJ2FnQ8g9H4U2",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://coin.top/production/upload/logo/TWjUXVYQtcsDM678DpnBkRJ2FnQ8g9H4U2.jpeg?t=1638777856425"
-        },
-        {
             "symbol": "CAVA",
             "name": "CAVA TOKEN",
             "address": "TZ9d1eaHuvW9danNbwtxg4CyNaAEHKH1cm",
@@ -233,12 +225,28 @@
             "logoURI": "https://coin.top/production/upload/logo/TZ9d1eaHuvW9danNbwtxg4CyNaAEHKH1cm.png?t=1627621383581"
         },
         {
+            "symbol": "FHT",
+            "name": "FHT",
+            "address": "TWjUXVYQtcsDM678DpnBkRJ2FnQ8g9H4U2",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/upload/logo/TWjUXVYQtcsDM678DpnBkRJ2FnQ8g9H4U2.jpeg?t=1638777856425"
+        },
+        {
             "symbol": "STAR",
             "name": "StarCoin",
             "address": "TA74PoX3vgpZfghFJDB3sog7mfYRkjWQwW",
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://coin.top/production/upload/logo/TA74PoX3vgpZfghFJDB3sog7mfYRkjWQwW.jpeg?t=1630031922251"
+        },
+        {
+            "symbol": "STRAC",
+            "name": "Stock Right Coin",
+            "address": "TFVFbULw95Bj12hRELMdzHbjmEY5cx25sn",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TFVFbULw95Bj12hRELMdzHbjmEY5cx25sn.png?t=1631496763612"
         },
         {
             "symbol": "LGT",
@@ -257,36 +265,12 @@
             "logoURI": "https://coin.top/production/upload/logo/TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB.png?t=1634803352024"
         },
         {
-            "symbol": "STRAC",
-            "name": "Stock Right Coin",
-            "address": "TFVFbULw95Bj12hRELMdzHbjmEY5cx25sn",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TFVFbULw95Bj12hRELMdzHbjmEY5cx25sn.png?t=1631496763612"
-        },
-        {
             "symbol": "NTC",
             "name": "New Trust Coin",
             "address": "TBLmTW1VsKP62sjvrXrmuWo959HbyJg6wV",
             "chainId": 1,
             "decimals": 16,
             "logoURI": "https://coin.top/production/upload/logo/TBLmTW1VsKP62sjvrXrmuWo959HbyJg6wV.png?t=1640436594850"
-        },
-        {
-            "symbol": "HTU66",
-            "name": "HTU66 Token",
-            "address": "TFHARNasoJgWV4VVADfjLJQ59qYVp68LTU",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TFHARNasoJgWV4VVADfjLJQ59qYVp68LTU.png?t=1639461286738"
-        },
-        {
-            "symbol": "888",
-            "name": "888Tron",
-            "address": "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
         },
         {
             "symbol": "APCH",
@@ -327,6 +311,14 @@
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://coin.top/production/upload/logo/TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN.png?t=1626055302160"
+        },
+        {
+            "symbol": "888",
+            "name": "888Tron",
+            "address": "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
         }
     ]
 }
