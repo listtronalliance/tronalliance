@@ -319,6 +319,14 @@
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://coin.top/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
+        },
+        {
+            "symbol": "DXDS",
+            "name": "DXDS TOKEN",
+            "address": "TEqK3awVu3jy6xEg6LpNYwUgTHdzPBmzGz",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TEqK3awVu3jy6xEg6LpNYwUgTHdzPBmzGz.jpeg?t=1647442602406"
         }
     ]
 }
