@@ -5,7 +5,7 @@
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 24
+        "patch": 25
     },
     "tokens": [
         {
@@ -255,14 +255,6 @@
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://coin.top/production/upload/logo/TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB.png?t=1634803352024"
-        },
-        {
-            "symbol": "APCH",
-            "name": "APCH",
-            "address": "TYrHJbBbjXo8F1r1JqqgcFzAzC9NCKYf2r",
-            "chainId": 1,
-            "decimals": 8,
-            "logoURI": "https://coin.top/production/upload/logo/TYrHJbBbjXo8F1r1JqqgcFzAzC9NCKYf2r.png?t=1635495944842"
         },
         {
             "symbol": "TX",
