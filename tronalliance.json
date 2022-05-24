@@ -1,11 +1,11 @@
 {
     "name": "Tron Alliance List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
-    "timestamp": 1653026373000,
+    "timestamp": 1653376961000,
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 25
+        "patch": 26
     },
     "tokens": [
         {
@@ -217,20 +217,20 @@
             "logoURI": "https://coin.top/production/upload/logo/TWaaMa462AUWGnKizYM17RuXKPv6Ej1xtE.jpeg?t=1640941925973"
         },
         {
-            "symbol": "FHT",
-            "name": "FHT",
-            "address": "TWjUXVYQtcsDM678DpnBkRJ2FnQ8g9H4U2",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://coin.top/production/upload/logo/TWjUXVYQtcsDM678DpnBkRJ2FnQ8g9H4U2.jpeg?t=1638777856425"
-        },
-        {
             "symbol": "FTD",
             "name": "FTD",
             "address": "TTQYYAuR9njtUrnDert3RHiYZXHLfoFAAD",
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://coin.top/production/upload/logo/default.png"
+        },
+        {
+            "symbol": "FHT",
+            "name": "FHT",
+            "address": "TWjUXVYQtcsDM678DpnBkRJ2FnQ8g9H4U2",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/upload/logo/TWjUXVYQtcsDM678DpnBkRJ2FnQ8g9H4U2.jpeg?t=1638777856425"
         },
         {
             "symbol": "STRAC",
@@ -241,14 +241,6 @@
             "logoURI": "https://coin.top/production/upload/logo/TFVFbULw95Bj12hRELMdzHbjmEY5cx25sn.png?t=1631496763612"
         },
         {
-            "symbol": "LGT",
-            "name": "LianGoToken",
-            "address": "TJmhYD2wTz19SCUWnwearVRRQC5BgKT7tJ",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TJmhYD2wTz19SCUWnwearVRRQC5BgKT7tJ.png?t=1626866073971"
-        },
-        {
             "symbol": "MST",
             "name": "Metacosmic system token",
             "address": "TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB",
@@ -257,36 +249,12 @@
             "logoURI": "https://coin.top/production/upload/logo/TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB.png?t=1634803352024"
         },
         {
-            "symbol": "TX",
-            "name": "TX Token",
-            "address": "THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC",
-            "chainId": 1,
-            "decimals": 8,
-            "logoURI": "https://coin.top/production/upload/logo/THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC.png?t=1636430555128"
-        },
-        {
-            "symbol": "Milk",
-            "name": "Milk",
-            "address": "TAzopbXcjczXr12k8uaXH1Adg9gpFKuUE3",
+            "symbol": "LGT",
+            "name": "LianGoToken",
+            "address": "TJmhYD2wTz19SCUWnwearVRRQC5BgKT7tJ",
             "chainId": 1,
             "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TAzopbXcjczXr12k8uaXH1Adg9gpFKuUE3.png?t=1617676633524"
-        },
-        {
-            "symbol": "MCAM",
-            "name": "Moneda Coin",
-            "address": "TC9hL8tXoDwMqMaQmEwMz73EsK1yM9hoin",
-            "chainId": 1,
-            "decimals": 9,
-            "logoURI": "https://coin.top/production/upload/logo/TC9hL8tXoDwMqMaQmEwMz73EsK1yM9hoin.png?t=1637839373767"
-        },
-        {
-            "symbol": "888",
-            "name": "888Tron",
-            "address": "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
+            "logoURI": "https://coin.top/production/upload/logo/TJmhYD2wTz19SCUWnwearVRRQC5BgKT7tJ.png?t=1626866073971"
         },
         {
             "symbol": "DFG",
@@ -297,12 +265,36 @@
             "logoURI": "https://coin.top/production/upload/logo/TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49.png?t=1636110939029"
         },
         {
+            "symbol": "Milk",
+            "name": "Milk",
+            "address": "TAzopbXcjczXr12k8uaXH1Adg9gpFKuUE3",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TAzopbXcjczXr12k8uaXH1Adg9gpFKuUE3.png?t=1617676633524"
+        },
+        {
             "symbol": "LUMI",
             "name": "LUMI Credits",
             "address": "TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN",
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://coin.top/production/upload/logo/TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN.png?t=1626055302160"
+        },
+        {
+            "symbol": "888",
+            "name": "888Tron",
+            "address": "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
+        },
+        {
+            "symbol": "TX",
+            "name": "TX Token",
+            "address": "THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC",
+            "chainId": 1,
+            "decimals": 8,
+            "logoURI": "https://coin.top/production/upload/logo/THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC.png?t=1636430555128"
         }
     ]
 }
