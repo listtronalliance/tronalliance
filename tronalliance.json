@@ -1,11 +1,11 @@
 {
     "name": "Tron Alliance List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
-    "timestamp": 1653633962000,
+    "timestamp": 1653978930000,
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 27
+        "patch": 28
     },
     "tokens": [
         {
@@ -73,20 +73,20 @@
             "logoURI": "https://coin.top/production/logo/TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S.png"
         },
         {
-            "symbol": "WBTT",
-            "name": "Wrapped BTT",
-            "address": "TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/logo/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png"
-        },
-        {
             "symbol": "BTT",
             "name": "BitTorrent",
             "address": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://coin.top/production/logo/1002000.png"
+        },
+        {
+            "symbol": "WBTT",
+            "name": "Wrapped BTT",
+            "address": "TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/logo/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png"
         },
         {
             "symbol": "WIN",
@@ -201,14 +201,6 @@
             "logoURI": "https://coin.top/production/upload/logo/TY5WnpU6bLxKrrAaa7JSQht1sPdgU4hkyk.png?t=1635758985693"
         },
         {
-            "symbol": "STAR",
-            "name": "StarCoin",
-            "address": "TA74PoX3vgpZfghFJDB3sog7mfYRkjWQwW",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://coin.top/production/upload/logo/TA74PoX3vgpZfghFJDB3sog7mfYRkjWQwW.jpeg?t=1630031922251"
-        },
-        {
             "symbol": "RON",
             "name": "Revolution",
             "address": "TWaaMa462AUWGnKizYM17RuXKPv6Ej1xtE",
@@ -225,20 +217,12 @@
             "logoURI": "https://coin.top/production/upload/logo/default.png"
         },
         {
-            "symbol": "FHT",
-            "name": "FHT",
-            "address": "TWjUXVYQtcsDM678DpnBkRJ2FnQ8g9H4U2",
+            "symbol": "STAR",
+            "name": "StarCoin",
+            "address": "TA74PoX3vgpZfghFJDB3sog7mfYRkjWQwW",
             "chainId": 1,
             "decimals": 18,
-            "logoURI": "https://coin.top/production/upload/logo/TWjUXVYQtcsDM678DpnBkRJ2FnQ8g9H4U2.jpeg?t=1638777856425"
-        },
-        {
-            "symbol": "STRAC",
-            "name": "Stock Right Coin",
-            "address": "TFVFbULw95Bj12hRELMdzHbjmEY5cx25sn",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TFVFbULw95Bj12hRELMdzHbjmEY5cx25sn.png?t=1631496763612"
+            "logoURI": "https://coin.top/production/upload/logo/TA74PoX3vgpZfghFJDB3sog7mfYRkjWQwW.jpeg?t=1630031922251"
         },
         {
             "symbol": "MST",
@@ -247,6 +231,22 @@
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://coin.top/production/upload/logo/TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB.png?t=1634803352024"
+        },
+        {
+            "symbol": "TX",
+            "name": "TX Token",
+            "address": "THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC",
+            "chainId": 1,
+            "decimals": 8,
+            "logoURI": "https://coin.top/production/upload/logo/THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC.png?t=1636430555128"
+        },
+        {
+            "symbol": "STRAC",
+            "name": "Stock Right Coin",
+            "address": "TFVFbULw95Bj12hRELMdzHbjmEY5cx25sn",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TFVFbULw95Bj12hRELMdzHbjmEY5cx25sn.png?t=1631496763612"
         },
         {
             "symbol": "DFG",
@@ -279,14 +279,6 @@
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://coin.top/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
-        },
-        {
-            "symbol": "TX",
-            "name": "TX Token",
-            "address": "THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC",
-            "chainId": 1,
-            "decimals": 8,
-            "logoURI": "https://coin.top/production/upload/logo/THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC.png?t=1636430555128"
         }
     ]
 }
