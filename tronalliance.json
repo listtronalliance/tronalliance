@@ -1,11 +1,11 @@
 {
     "name": "Tron Alliance List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
-    "timestamp": 1653978930000,
+    "timestamp": 1654585532000,
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 28
+        "patch": 29
     },
     "tokens": [
         {
@@ -73,20 +73,20 @@
             "logoURI": "https://coin.top/production/logo/TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S.png"
         },
         {
-            "symbol": "BTT",
-            "name": "BitTorrent",
-            "address": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://coin.top/production/logo/1002000.png"
-        },
-        {
             "symbol": "WBTT",
             "name": "Wrapped BTT",
             "address": "TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://coin.top/production/logo/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png"
+        },
+        {
+            "symbol": "BTT",
+            "name": "BitTorrent",
+            "address": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/logo/1002000.png"
         },
         {
             "symbol": "WIN",
@@ -209,20 +209,20 @@
             "logoURI": "https://coin.top/production/upload/logo/TWaaMa462AUWGnKizYM17RuXKPv6Ej1xtE.jpeg?t=1640941925973"
         },
         {
-            "symbol": "FTD",
-            "name": "FTD",
-            "address": "TTQYYAuR9njtUrnDert3RHiYZXHLfoFAAD",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://coin.top/production/upload/logo/default.png"
-        },
-        {
             "symbol": "STAR",
             "name": "StarCoin",
             "address": "TA74PoX3vgpZfghFJDB3sog7mfYRkjWQwW",
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://coin.top/production/upload/logo/TA74PoX3vgpZfghFJDB3sog7mfYRkjWQwW.jpeg?t=1630031922251"
+        },
+        {
+            "symbol": "FTD",
+            "name": "FTD",
+            "address": "TTQYYAuR9njtUrnDert3RHiYZXHLfoFAAD",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/upload/logo/default.png"
         },
         {
             "symbol": "MST",
@@ -233,28 +233,20 @@
             "logoURI": "https://coin.top/production/upload/logo/TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB.png?t=1634803352024"
         },
         {
-            "symbol": "TX",
-            "name": "TX Token",
-            "address": "THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC",
-            "chainId": 1,
-            "decimals": 8,
-            "logoURI": "https://coin.top/production/upload/logo/THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC.png?t=1636430555128"
-        },
-        {
-            "symbol": "STRAC",
-            "name": "Stock Right Coin",
-            "address": "TFVFbULw95Bj12hRELMdzHbjmEY5cx25sn",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TFVFbULw95Bj12hRELMdzHbjmEY5cx25sn.png?t=1631496763612"
-        },
-        {
             "symbol": "DFG",
             "name": "DFG",
             "address": "TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49",
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://coin.top/production/upload/logo/TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49.png?t=1636110939029"
+        },
+        {
+            "symbol": "TX",
+            "name": "TX Token",
+            "address": "THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC",
+            "chainId": 1,
+            "decimals": 8,
+            "logoURI": "https://coin.top/production/upload/logo/THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC.png?t=1636430555128"
         },
         {
             "symbol": "LUMI",
