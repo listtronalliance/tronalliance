@@ -1,11 +1,11 @@
 {
     "name": "Tron Alliance List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
-    "timestamp": 1655453868000,
+    "timestamp": 1655795855000,
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 32
+        "patch": 33
     },
     "tokens": [
         {
@@ -199,14 +199,6 @@
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://coin.top/production/upload/logo/TY5WnpU6bLxKrrAaa7JSQht1sPdgU4hkyk.png?t=1635758985693"
-        },
-        {
-            "symbol": "RON",
-            "name": "Revolution",
-            "address": "TWaaMa462AUWGnKizYM17RuXKPv6Ej1xtE",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TWaaMa462AUWGnKizYM17RuXKPv6Ej1xtE.jpeg?t=1640941925973"
         },
         {
             "symbol": "STAR",
