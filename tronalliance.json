@@ -1,11 +1,11 @@
 {
     "name": "Tron Alliance List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
-    "timestamp": 1656660532000,
+    "timestamp": 1657011701000,
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 36
+        "patch": 37
     },
     "tokens": [
         {
@@ -201,12 +201,44 @@
             "logoURI": "https://coin.top/production/upload/logo/TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB.png?t=1634803352024"
         },
         {
+            "symbol": "TX",
+            "name": "TX Token",
+            "address": "THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC",
+            "chainId": 1,
+            "decimals": 8,
+            "logoURI": "https://coin.top/production/upload/logo/THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC.png?t=1636430555128"
+        },
+        {
             "symbol": "DFG",
             "name": "DFG",
             "address": "TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49",
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://coin.top/production/upload/logo/TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49.png?t=1636110939029"
+        },
+        {
+            "symbol": "888",
+            "name": "888Tron",
+            "address": "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
+        },
+        {
+            "symbol": "OXYZ",
+            "name": "OXYZ Token",
+            "address": "TQhGUHBYToUuYUMXR4EiPU5BhoxS1NrSKW",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TQhGUHBYToUuYUMXR4EiPU5BhoxS1NrSKW.png?t=1638775002366"
+        },
+        {
+            "symbol": "REA",
+            "name": "REA Token",
+            "address": "TH5ydFhBnLV4ZHF2bgBVaTBfX8LY17kj9W",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TH5ydFhBnLV4ZHF2bgBVaTBfX8LY17kj9W.png?t=1621585681128"
         },
         {
             "symbol": "LUMI",
@@ -223,30 +255,6 @@
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://coin.top/production/upload/logo/TAzopbXcjczXr12k8uaXH1Adg9gpFKuUE3.png?t=1617676633524"
-        },
-        {
-            "symbol": "888",
-            "name": "888Tron",
-            "address": "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
-        },
-        {
-            "symbol": "REA",
-            "name": "REA Token",
-            "address": "TH5ydFhBnLV4ZHF2bgBVaTBfX8LY17kj9W",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TH5ydFhBnLV4ZHF2bgBVaTBfX8LY17kj9W.png?t=1621585681128"
-        },
-        {
-            "symbol": "TX",
-            "name": "TX Token",
-            "address": "THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC",
-            "chainId": 1,
-            "decimals": 8,
-            "logoURI": "https://coin.top/production/upload/logo/THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC.png?t=1636430555128"
         }
     ]
 }
