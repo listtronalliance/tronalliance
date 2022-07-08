@@ -1,11 +1,11 @@
 {
     "name": "Tron Alliance List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
-    "timestamp": 1657011701000,
+    "timestamp": 1657257357000,
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 37
+        "patch": 38
     },
     "tokens": [
         {
@@ -73,20 +73,20 @@
             "logoURI": "https://coin.top/production/logo/TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S.png"
         },
         {
-            "symbol": "WBTT",
-            "name": "Wrapped BTT",
-            "address": "TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/logo/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png"
-        },
-        {
             "symbol": "BTT",
             "name": "BitTorrent",
             "address": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://coin.top/production/logo/1002000.png"
+        },
+        {
+            "symbol": "WBTT",
+            "name": "Wrapped BTT",
+            "address": "TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/logo/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png"
         },
         {
             "symbol": "WIN",
@@ -223,14 +223,6 @@
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://coin.top/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
-        },
-        {
-            "symbol": "OXYZ",
-            "name": "OXYZ Token",
-            "address": "TQhGUHBYToUuYUMXR4EiPU5BhoxS1NrSKW",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TQhGUHBYToUuYUMXR4EiPU5BhoxS1NrSKW.png?t=1638775002366"
         },
         {
             "symbol": "REA",
