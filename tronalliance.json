@@ -1,11 +1,11 @@
 {
     "name": "Tron Alliance List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
-    "timestamp": 1657257357000,
+    "timestamp": 1657875801000,
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 38
+        "patch": 39
     },
     "tokens": [
         {
@@ -73,20 +73,20 @@
             "logoURI": "https://coin.top/production/logo/TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S.png"
         },
         {
-            "symbol": "BTT",
-            "name": "BitTorrent",
-            "address": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://coin.top/production/logo/1002000.png"
-        },
-        {
             "symbol": "WBTT",
             "name": "Wrapped BTT",
             "address": "TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://coin.top/production/logo/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png"
+        },
+        {
+            "symbol": "BTT",
+            "name": "BitTorrent",
+            "address": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/logo/1002000.png"
         },
         {
             "symbol": "WIN",
@@ -193,12 +193,36 @@
             "logoURI": "https://coin.top/production/upload/logo/TUjwNG28iEa18s8WVnbxChu7g6SN2VCxUP.png?t=1645510767490"
         },
         {
+            "symbol": "STAR",
+            "name": "StarCoin",
+            "address": "TA74PoX3vgpZfghFJDB3sog7mfYRkjWQwW",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/upload/logo/TA74PoX3vgpZfghFJDB3sog7mfYRkjWQwW.jpeg?t=1630031922251"
+        },
+        {
             "symbol": "MST",
             "name": "Metacosmic system token",
             "address": "TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB",
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://coin.top/production/upload/logo/TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB.png?t=1634803352024"
+        },
+        {
+            "symbol": "LUMI",
+            "name": "LUMI Credits",
+            "address": "TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN.png?t=1626055302160"
+        },
+        {
+            "symbol": "Milk",
+            "name": "Milk",
+            "address": "TAzopbXcjczXr12k8uaXH1Adg9gpFKuUE3",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TAzopbXcjczXr12k8uaXH1Adg9gpFKuUE3.png?t=1617676633524"
         },
         {
             "symbol": "TX",
@@ -231,22 +255,6 @@
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://coin.top/production/upload/logo/TH5ydFhBnLV4ZHF2bgBVaTBfX8LY17kj9W.png?t=1621585681128"
-        },
-        {
-            "symbol": "LUMI",
-            "name": "LUMI Credits",
-            "address": "TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN.png?t=1626055302160"
-        },
-        {
-            "symbol": "Milk",
-            "name": "Milk",
-            "address": "TAzopbXcjczXr12k8uaXH1Adg9gpFKuUE3",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TAzopbXcjczXr12k8uaXH1Adg9gpFKuUE3.png?t=1617676633524"
         }
     ]
 }
