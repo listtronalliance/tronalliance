@@ -1,11 +1,11 @@
 {
     "name": "Tron Alliance List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
-    "timestamp": 1657875801000,
+    "timestamp": 1658223215000,
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 39
+        "patch": 40
     },
     "tokens": [
         {
@@ -209,12 +209,20 @@
             "logoURI": "https://coin.top/production/upload/logo/TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB.png?t=1634803352024"
         },
         {
-            "symbol": "LUMI",
-            "name": "LUMI Credits",
-            "address": "TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN",
+            "symbol": "DFG",
+            "name": "DFG",
+            "address": "TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49",
             "chainId": 1,
             "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN.png?t=1626055302160"
+            "logoURI": "https://coin.top/production/upload/logo/TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49.png?t=1636110939029"
+        },
+        {
+            "symbol": "DIVS",
+            "name": "Divs",
+            "address": "TRXmYPy2AXZxacoSbKGjiVto8K1EqwexU7",
+            "chainId": 1,
+            "decimals": 8,
+            "logoURI": "https://coin.top/production/upload/logo/TRXmYPy2AXZxacoSbKGjiVto8K1EqwexU7.jpeg?t=1645461896465"
         },
         {
             "symbol": "Milk",
@@ -233,20 +241,20 @@
             "logoURI": "https://coin.top/production/upload/logo/THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC.png?t=1636430555128"
         },
         {
-            "symbol": "DFG",
-            "name": "DFG",
-            "address": "TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49.png?t=1636110939029"
-        },
-        {
             "symbol": "888",
             "name": "888Tron",
             "address": "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3",
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://coin.top/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
+        },
+        {
+            "symbol": "LUMI",
+            "name": "LUMI Credits",
+            "address": "TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN.png?t=1626055302160"
         },
         {
             "symbol": "REA",
