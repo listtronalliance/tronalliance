@@ -1,11 +1,11 @@
 {
     "name": "Tron Alliance List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
-    "timestamp": 1658473065000,
+    "timestamp": 1658816954000,
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 41
+        "patch": 42
     },
     "tokens": [
         {
@@ -177,14 +177,6 @@
             "logoURI": "https://coin.top/production/logo/TXWkP3jLBqRGojUih1ShzNyDaN5Csnebok.png"
         },
         {
-            "symbol": "NAC",
-            "name": "Noah's Ark Coin",
-            "address": "TVH8BqeUcvGgZc9y1z4Dqgxu37qjx2zepZ",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TVH8BqeUcvGgZc9y1z4Dqgxu37qjx2zepZ.jpeg?t=1637426736917"
-        },
-        {
             "symbol": "MCS-P",
             "name": "MCS-P",
             "address": "TUjwNG28iEa18s8WVnbxChu7g6SN2VCxUP",
@@ -247,14 +239,6 @@
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://coin.top/production/upload/logo/TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN.png?t=1626055302160"
-        },
-        {
-            "symbol": "REA",
-            "name": "REA Token",
-            "address": "TH5ydFhBnLV4ZHF2bgBVaTBfX8LY17kj9W",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TH5ydFhBnLV4ZHF2bgBVaTBfX8LY17kj9W.png?t=1621585681128"
         }
     ]
 }
