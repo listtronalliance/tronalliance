@@ -1,11 +1,11 @@
 {
     "name": "Tron Alliance List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
-    "timestamp": 1659078083000,
+    "timestamp": 1659426064000,
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 43
+        "patch": 44
     },
     "tokens": [
         {
@@ -223,14 +223,6 @@
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://static.tronscan.org/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
-        },
-        {
-            "symbol": "ZZ",
-            "name": "ZZ Game",
-            "address": "TUjMMGVD3YNS69G7XDY9GWBrNUnrWb5bdv",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://static.tronscan.org/production/upload/logo/TUjMMGVD3YNS69G7XDY9GWBrNUnrWb5bdv.jpeg?t=1648707664124"
         },
         {
             "symbol": "DIVS",
