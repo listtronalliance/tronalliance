@@ -1,11 +1,11 @@
 {
     "name": "Tron Alliance List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
-    "timestamp": 1659426064000,
+    "timestamp": 1659686970000,
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 44
+        "patch": 45
     },
     "tokens": [
         {
@@ -113,20 +113,20 @@
             "logoURI": "https://static.tronscan.org/production/upload/logo/TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9.png"
         },
         {
-            "symbol": "ETH",
-            "name": "Ethereum",
-            "address": "THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://static.tronscan.org/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
-        },
-        {
             "symbol": "LIVE",
             "name": "TRONbetLive",
             "address": "TVgAYofpQku5G4zenXnvxhbZxpzzrk8WVK",
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://static.tronscan.org/production/upload/logo/TVgAYofpQku5G4zenXnvxhbZxpzzrk8WVK.png?t=1569566505980"
+        },
+        {
+            "symbol": "ETH",
+            "name": "Ethereum",
+            "address": "THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://static.tronscan.org/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
         },
         {
             "symbol": "DICE",
@@ -193,6 +193,22 @@
             "logoURI": "https://static.tronscan.org/production/upload/logo/TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB.png?t=1634803352024"
         },
         {
+            "symbol": "888",
+            "name": "888Tron",
+            "address": "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://static.tronscan.org/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
+        },
+        {
+            "symbol": "HEMX",
+            "name": "HEMX",
+            "address": "TFwwibrLvNShjvPaBrQGaj9LQFLMF274ok",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://static.tronscan.org/production/upload/logo/TFwwibrLvNShjvPaBrQGaj9LQFLMF274ok.png?t=1656850504862"
+        },
+        {
             "symbol": "TX",
             "name": "TX Token",
             "address": "THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC",
@@ -217,20 +233,12 @@
             "logoURI": "https://static.tronscan.org/production/upload/logo/TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN.png?t=1626055302160"
         },
         {
-            "symbol": "888",
-            "name": "888Tron",
-            "address": "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://static.tronscan.org/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
-        },
-        {
             "symbol": "DIVS",
             "name": "Divs",
             "address": "TRXmYPy2AXZxacoSbKGjiVto8K1EqwexU7",
             "chainId": 1,
             "decimals": 8,
-            "logoURI": "https://coin.top/production/upload/logo/TRXmYPy2AXZxacoSbKGjiVto8K1EqwexU7.jpeg?t=1645461896465"
+            "logoURI": "https://static.tronscan.org/production/upload/logo/TRXmYPy2AXZxacoSbKGjiVto8K1EqwexU7.jpeg?t=1645461896465"
         },
         {
             "symbol": "Milk",
@@ -238,7 +246,7 @@
             "address": "TAzopbXcjczXr12k8uaXH1Adg9gpFKuUE3",
             "chainId": 1,
             "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TAzopbXcjczXr12k8uaXH1Adg9gpFKuUE3.png?t=1617676633524"
+            "logoURI": "https://static.tronscan.org/production/upload/logo/TAzopbXcjczXr12k8uaXH1Adg9gpFKuUE3.png?t=1617676633524"
         }
     ]
 }
