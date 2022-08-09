@@ -1,11 +1,11 @@
 {
     "name": "Tron Alliance List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
-    "timestamp": 1659686970000,
+    "timestamp": 1660029969000,
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 45
+        "patch": 46
     },
     "tokens": [
         {
@@ -185,28 +185,12 @@
             "logoURI": "https://static.tronscan.org/production/upload/logo/TUjwNG28iEa18s8WVnbxChu7g6SN2VCxUP.png?t=1645510767490"
         },
         {
-            "symbol": "MST",
-            "name": "Metacosmic system token",
-            "address": "TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://static.tronscan.org/production/upload/logo/TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB.png?t=1634803352024"
-        },
-        {
             "symbol": "888",
             "name": "888Tron",
             "address": "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3",
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://static.tronscan.org/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
-        },
-        {
-            "symbol": "HEMX",
-            "name": "HEMX",
-            "address": "TFwwibrLvNShjvPaBrQGaj9LQFLMF274ok",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://static.tronscan.org/production/upload/logo/TFwwibrLvNShjvPaBrQGaj9LQFLMF274ok.png?t=1656850504862"
         },
         {
             "symbol": "TX",
@@ -238,7 +222,15 @@
             "address": "TRXmYPy2AXZxacoSbKGjiVto8K1EqwexU7",
             "chainId": 1,
             "decimals": 8,
-            "logoURI": "https://static.tronscan.org/production/upload/logo/TRXmYPy2AXZxacoSbKGjiVto8K1EqwexU7.jpeg?t=1645461896465"
+            "logoURI": "https://coin.top/production/upload/logo/TRXmYPy2AXZxacoSbKGjiVto8K1EqwexU7.jpeg?t=1645461896465"
+        },
+        {
+            "symbol": "MST",
+            "name": "Metacosmic system token",
+            "address": "TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://static.tronscan.org/production/upload/logo/TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB.png?t=1634803352024"
         },
         {
             "symbol": "Milk",
@@ -246,7 +238,7 @@
             "address": "TAzopbXcjczXr12k8uaXH1Adg9gpFKuUE3",
             "chainId": 1,
             "decimals": 6,
-            "logoURI": "https://static.tronscan.org/production/upload/logo/TAzopbXcjczXr12k8uaXH1Adg9gpFKuUE3.png?t=1617676633524"
+            "logoURI": "https://coin.top/production/upload/logo/TAzopbXcjczXr12k8uaXH1Adg9gpFKuUE3.png?t=1617676633524"
         }
     ]
 }
