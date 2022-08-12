@@ -1,11 +1,11 @@
 {
     "name": "Tron Alliance List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
-    "timestamp": 1660029969000,
+    "timestamp": 1660291736000,
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 46
+        "patch": 47
     },
     "tokens": [
         {
@@ -105,6 +105,14 @@
             "logoURI": "https://static.tronscan.org/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png"
         },
         {
+            "symbol": "BYT",
+            "name": "BYT",
+            "address": "TTdyBPmeWDfF9eXCdur9e9GdHnX3AZc8Ae",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/default.png"
+        },
+        {
             "symbol": "SUNOLD",
             "name": "SUN OLD TOKEN",
             "address": "TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
@@ -185,20 +193,12 @@
             "logoURI": "https://static.tronscan.org/production/upload/logo/TUjwNG28iEa18s8WVnbxChu7g6SN2VCxUP.png?t=1645510767490"
         },
         {
-            "symbol": "888",
-            "name": "888Tron",
-            "address": "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3",
+            "symbol": "MST",
+            "name": "Metacosmic system token",
+            "address": "TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB",
             "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://static.tronscan.org/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
-        },
-        {
-            "symbol": "TX",
-            "name": "TX Token",
-            "address": "THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC",
-            "chainId": 1,
-            "decimals": 8,
-            "logoURI": "https://static.tronscan.org/production/upload/logo/THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC.png?t=1636430555128"
+            "decimals": 18,
+            "logoURI": "https://static.tronscan.org/production/upload/logo/TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB.png?t=1634803352024"
         },
         {
             "symbol": "DFG",
@@ -217,20 +217,20 @@
             "logoURI": "https://static.tronscan.org/production/upload/logo/TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN.png?t=1626055302160"
         },
         {
+            "symbol": "888",
+            "name": "888Tron",
+            "address": "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://static.tronscan.org/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
+        },
+        {
             "symbol": "DIVS",
             "name": "Divs",
             "address": "TRXmYPy2AXZxacoSbKGjiVto8K1EqwexU7",
             "chainId": 1,
             "decimals": 8,
-            "logoURI": "https://coin.top/production/upload/logo/TRXmYPy2AXZxacoSbKGjiVto8K1EqwexU7.jpeg?t=1645461896465"
-        },
-        {
-            "symbol": "MST",
-            "name": "Metacosmic system token",
-            "address": "TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://static.tronscan.org/production/upload/logo/TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB.png?t=1634803352024"
+            "logoURI": "https://static.tronscan.org/production/upload/logo/TRXmYPy2AXZxacoSbKGjiVto8K1EqwexU7.jpeg?t=1645461896465"
         },
         {
             "symbol": "Milk",
@@ -238,7 +238,15 @@
             "address": "TAzopbXcjczXr12k8uaXH1Adg9gpFKuUE3",
             "chainId": 1,
             "decimals": 6,
-            "logoURI": "https://coin.top/production/upload/logo/TAzopbXcjczXr12k8uaXH1Adg9gpFKuUE3.png?t=1617676633524"
+            "logoURI": "https://static.tronscan.org/production/upload/logo/TAzopbXcjczXr12k8uaXH1Adg9gpFKuUE3.png?t=1617676633524"
+        },
+        {
+            "symbol": "TX",
+            "name": "TX Token",
+            "address": "THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC",
+            "chainId": 1,
+            "decimals": 8,
+            "logoURI": "https://static.tronscan.org/production/upload/logo/THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC.png?t=1636430555128"
         }
     ]
 }
