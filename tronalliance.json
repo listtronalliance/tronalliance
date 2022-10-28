@@ -1,11 +1,11 @@
 {
     "name": "Tron Alliance List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
-    "timestamp": 1660291736000,
+    "timestamp": 1666953300386,
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 47
+        "patch": 48
     },
     "tokens": [
         {
@@ -121,28 +121,12 @@
             "logoURI": "https://static.tronscan.org/production/upload/logo/TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9.png"
         },
         {
-            "symbol": "LIVE",
-            "name": "TRONbetLive",
-            "address": "TVgAYofpQku5G4zenXnvxhbZxpzzrk8WVK",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://static.tronscan.org/production/upload/logo/TVgAYofpQku5G4zenXnvxhbZxpzzrk8WVK.png?t=1569566505980"
-        },
-        {
             "symbol": "ETH",
             "name": "Ethereum",
             "address": "THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF",
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://static.tronscan.org/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
-        },
-        {
-            "symbol": "DICE",
-            "name": "TRONbetDice",
-            "address": "TKttnV3FSY1iEoAwB4N52WK2DxdV94KpSd",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://static.tronscan.org/production/logo/TKttnV3FSY1iEoAwB4N52WK2DxdV94KpSd.jpg"
         },
         {
             "symbol": "HT",
