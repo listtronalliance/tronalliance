@@ -9,6 +9,14 @@
     },
     "tokens": [
         {
+            "symbol": "AGR",
+            "name": "AGRO8",
+            "address": "TU6J4rKbTR232W2drHi1EQswiuswkdo9pu",
+            "chainId": 1,
+            "decimals": 2,
+            "logoURI": "https://static.tronscan.org/production/upload/logo/new/1004900.jpeg"
+        },
+        {
             "symbol": "USDT",
             "name": "Tether USD",
             "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
