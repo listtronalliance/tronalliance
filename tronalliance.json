@@ -1,11 +1,11 @@
 {
     "name": "Tron Alliance List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
-    "timestamp": 1666953300386,
+    "timestamp": 1672721224000,
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 48
+        "patch": 49
     },
     "tokens": [
         {
@@ -167,6 +167,14 @@
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://static.tronscan.org/production/logo/TXWkP3jLBqRGojUih1ShzNyDaN5Csnebok.png"
+        },
+        {
+            "symbol": "BUSD",
+            "address": "TMz2SWatiAtZVVcH2ebpsbVtYwUPT9EdjH",
+            "chainId": 1,
+            "decimals": 18,
+            "name": "BUSD Token",
+            "logoURI": "https://static.tronscan.org/production/upload/logo/new/busd-coin1.png"
         },
         {
             "symbol": "MCS-P",
