@@ -1,11 +1,11 @@
 {
 	"name": "Tron Alliance List",
 	"logoURI": "https://list.tronalliance.cc/fav.ico",
-	"timestamp": 1681921073000,
+	"timestamp": 1689154426000,
 	"version": {
 		"major": 1,
-		"minor": 4,
-		"patch": 50
+		"minor": 5,
+		"patch": 0
 	},
 	"tokens": [{
 			"symbol": "USDT",
@@ -119,14 +119,22 @@
 			"decimals": 18,
 			"logoURI": "https://static.tronscan.org/production/upload/logo/TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9.png"
 		},
+        {
+            "symbol": "ETH",
+            "address": "TRFe3hT5oYhjSZ6f3ji5FJ7YCfrkWnHRvh",
+            "chainId": 1,
+            "decimals": 18,
+            "name": "Ethereum",
+            "logoURI": "https://static.tronscan.org/production/logo/TRFe3hT5oYhjSZ6f3ji5FJ7YCfrkWnHRvh.png"
+        },
 		{
-			"symbol": "ETH",
-			"name": "Ethereum",
-			"address": "THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF",
-			"chainId": 1,
-			"decimals": 18,
-			"logoURI": "https://static.tronscan.org/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
-		},
+            "symbol": "ETHOLD",
+            "address": "THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF",
+            "chainId": 1,
+            "decimals": 18,
+            "name": "EthereumOLD",
+            "logoURI": "https://static.tronscan.org/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
+        },
 		{
 			"symbol": "HT",
 			"name": "HuobiToken",
@@ -174,15 +182,15 @@
 			"decimals": 18,
 			"name": "BUSD Token",
 			"logoURI": "https://static.tronscan.org/production/upload/logo/new/busd-coin1.png"
-        },
-        {
-            "symbol": "sTRX",
-            "address": "TU3kjFuhtEo42tsCBtfYUAZxoqQ4yuSLQ5",
-            "chainId": 1,
-            "decimals": 18,
-            "name": "staked TRX",
-            "logoURI": "https://static.tronscan.org/production/upload/logo/new/TU3kjFuhtEo42tsCBtfYUAZxoqQ4yuSLQ5.png"
-        },
+		},
+		{
+			"symbol": "sTRX",
+			"address": "TU3kjFuhtEo42tsCBtfYUAZxoqQ4yuSLQ5",
+			"chainId": 1,
+			"decimals": 18,
+			"name": "staked TRX",
+			"logoURI": "https://static.tronscan.org/production/upload/logo/new/TU3kjFuhtEo42tsCBtfYUAZxoqQ4yuSLQ5.png"
+		},
 		{
 			"symbol": "MCS-P",
 			"name": "MCS-P",
