@@ -265,3 +265,11 @@
 		}
 	]
 }
+                 {
+			"symbol": "JPM",
+			"name": "JPM",
+			"address": "TRtgjeEnCYK5LHgZui47ph3ge6dSyiPswJ",
+			"chainId": 1,
+			"decimals": 18,
+			"logoURI": "https://github.com/USDJPM/JPM/blob/main/logo.png"
+		}
