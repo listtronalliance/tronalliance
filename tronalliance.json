@@ -222,6 +222,14 @@
 			"chainId": 1,
 			"decimals": 8,
 			"logoURI": "https://static.tronscan.org/production/upload/logo/THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC.png?t=1636430555128"
+		},
+		{
+			"symbol": "CBH",
+			"name": "CyberHash",
+			"address": "TLgTnTdJLonzRb9bApfZ9hyfdC7X9RxWsy",
+			"chainId": 1,
+			"decimals": 8,
+			"logoURI": "https://static.tronscan.org/production/upload/logo/new/TLgTnTdJLonzRb9bApfZ9hyfdC7X9RxWsy.png?t=1681717489323"
 		}
 	]
 }
