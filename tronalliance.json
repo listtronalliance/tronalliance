@@ -1,11 +1,11 @@
 {
 	"name": "Tron Alliance List",
 	"logoURI": "https://list.tronalliance.cc/fav.ico",
-	"timestamp": 1705485002000,
+	"timestamp": 1706515365000,
 	"version": {
 		"major": 1,
-		"minor": 6,
-		"patch": 1
+		"minor": 7,
+		"patch": 0
 	},
 	"tokens": [{
 			"symbol": "USDT",
@@ -182,6 +182,14 @@
 			"decimals": 18,
 			"name": "Staked USDT",
 			"logoURI": "https://static.tronscan.org/production/upload/logo/new/stUSDT_logo.png"
+		},
+		{
+			"symbol": "HTX",
+			"address": "TUPM7K8REVzD2UdV4R5fe5M8XbnR2DdoJ6",
+			"chainId": 1,
+			"decimals": 18,
+			"name": "HTX",
+			"logoURI": "https://static.tronscan.org/production/upload/logo/new/HTX.png"
 		},
 		{
 			"symbol": "MCS-P",
