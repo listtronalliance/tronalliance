@@ -112,7 +112,7 @@
 			"logoURI": "https://static.tronscan.org/production/upload/logo/TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9.png"
 		},
 	        {
-	            "symbol": "ETH",
+	            "symbol": "ETHB",
 	            "address": "TRFe3hT5oYhjSZ6f3ji5FJ7YCfrkWnHRvh",
 	            "chainId": 1,
 	            "decimals": 18,
@@ -120,7 +120,7 @@
 	            "logoURI": "https://static.tronscan.org/production/logo/TRFe3hT5oYhjSZ6f3ji5FJ7YCfrkWnHRvh.png"
 	        },
 		{
-	            "symbol": "ETHOLD",
+	            "symbol": "ETH",
 	            "address": "THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF",
 	            "chainId": 1,
 	            "decimals": 18,
