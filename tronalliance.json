@@ -24,6 +24,14 @@
 			"logoURI": "https://static.tronscan.org/production/upload/logo/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz81.png"
 		},
 		{
+			"symbol": "USDD",
+			"name": "Decentralized USD",
+			"address": "TXDk8mbtRbXeYuMNS83CfKPaYYT8XWv9Hz",
+			"chainId": 1,
+			"decimals": 18,
+			"logoURI": "https://static.tronscan.org/production/upload/logo/new/TXDk8mbtRbXeYuMNS83CfKPaYYT8XWv9Hz.png"
+		},
+		{
 			"symbol": "USDDOLD",
 			"name": "Decentralized USD OLD",
 			"address": "TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn",
