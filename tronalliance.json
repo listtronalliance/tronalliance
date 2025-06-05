@@ -1,10 +1,10 @@
 {
 	"name": "Tron Alliance List",
 	"logoURI": "https://list.tronalliance.cc/fav.ico",
-	"timestamp": 1737630226000,
+	"timestamp": 1749112800000,
 	"version": {
 		"major": 1,
-		"minor": 10,
+		"minor": 11,
 		"patch": 0
 	},
 	"tokens": [{
@@ -198,38 +198,6 @@
 			"decimals": 18,
 			"name": "HTX",
 			"logoURI": "https://static.tronscan.org/production/upload/logo/new/HTX.png"
-		},
-		{
-			"symbol": "MCS-P",
-			"name": "MCS-P",
-			"address": "TUjwNG28iEa18s8WVnbxChu7g6SN2VCxUP",
-			"chainId": 1,
-			"decimals": 14,
-			"logoURI": "https://static.tronscan.org/production/upload/logo/TUjwNG28iEa18s8WVnbxChu7g6SN2VCxUP.png?t=1645510767490"
-		},
-		{
-			"symbol": "MST",
-			"name": "Metacosmic system token",
-			"address": "TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB",
-			"chainId": 1,
-			"decimals": 18,
-			"logoURI": "https://static.tronscan.org/production/upload/logo/TRcjyxJpGRsaQtWNecG1QLNwRzyqoce4UB.png?t=1634803352024"
-		},
-		{
-			"symbol": "888",
-			"name": "888Tron",
-			"address": "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3",
-			"chainId": 1,
-			"decimals": 6,
-			"logoURI": "https://static.tronscan.org/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
-		},
-		{
-			"symbol": "TX",
-			"name": "TX Token",
-			"address": "THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC",
-			"chainId": 1,
-			"decimals": 8,
-			"logoURI": "https://static.tronscan.org/production/upload/logo/THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC.png?t=1636430555128"
 		},
 		{
 			"symbol": "Sundog",
