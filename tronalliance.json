@@ -209,3 +209,11 @@
 		}
 	]
 }
+{
+  "symbol": "EXB",
+  "name": "ExchangeBerry",
+  "address": "TJfwgDTDLqXHHaDPJtJAjnT6V1eZWGcGPX",
+  "chainId": 1,
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/exchangeberry/assets/master/blockchains/tron/assets/blockchains/tron/assets/TJfwgDTDLqXHHaDPJtJAjnT6V1eZWGcGPX/logo.png"
+}
