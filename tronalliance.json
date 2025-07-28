@@ -1,10 +1,10 @@
 {
 	"name": "Tron Alliance List",
 	"logoURI": "https://list.tronalliance.cc/fav.ico",
-	"timestamp": 1749112800000,
+	"timestamp": 1753672796000,
 	"version": {
 		"major": 1,
-		"minor": 11,
+		"minor": 12,
 		"patch": 0
 	},
 	"tokens": [{
@@ -206,6 +206,14 @@
 			"chainId": 1,
 			"decimals": 18,
 			"logoURI": "https://static.tronscan.org/production/upload/logo/new/sun/TXL6rJbvmjD46zeN1JssfgxvSo99qC8MRT.png"
-		}
+		},
+		{
+			"symbol": "TRUMP",
+			"name": "OFFICIAL TRUMP ",
+			"address": "TXZQuyCasxN42bjAcYpP2xwYVMCF6gHBnv",
+			"chainId": 1,
+			"decimals": 18,
+			"logoURI": "https://static.tronscan.org/production/upload/logo/new/TXZQuyCasxN42bjAcYpP2xwYVMCF6gHBnv.jpg"
+		},
 	]
 }
