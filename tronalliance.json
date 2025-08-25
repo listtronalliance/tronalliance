@@ -82,7 +82,7 @@
 		{
 			"symbol": "BTT",
 			"name": "BitTorrent",
-			"address": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
+			"adress":  "TAFjULxiVgT4qWk6UZwjqwTSaGaqnVp4",
 			"chainId": 1,
 			"decimals": 18,
 			"logoURI": "https://static.tronscan.org/production/logo/1002000.png"
