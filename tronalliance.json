@@ -222,6 +222,14 @@
 			"chainId": 1,
 			"decimals": 18,
 			"logoURI": "https://static.tronscan.org/production/upload/logo/new/TXZQuyCasxN42bjAcYpP2xwYVMCF6gHBnv.jpg"
+		},
+		{
+			"symbol": "xxSDT",
+			"name": "Xtreme SDT",
+			"address": "TMP5bNSRKcKRwRQVxRtTVw4g9Zhdq7LeKs",
+			"chainId": 1,
+			"decimals": 6,
+			"logoURI": "https://static.tronscan.org/production/upload/logo/new/TMP5bNSRKcKRwRQVxRtTVw4g9Zhdq7LeKs.png"
 		}
 	]
 }
