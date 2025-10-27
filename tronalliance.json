@@ -1,10 +1,10 @@
 {
 	"name": "Tron Alliance List",
 	"logoURI": "https://list.tronalliance.cc/fav.ico",
-	"timestamp": 1753672796000,
+	"timestamp": 1761562908000,
 	"version": {
 		"major": 1,
-		"minor": 12,
+		"minor": 13,
 		"patch": 0
 	},
 	"tokens": [{
@@ -205,7 +205,7 @@
 			"address": "TXL6rJbvmjD46zeN1JssfgxvSo99qC8MRT",
 			"chainId": 1,
 			"decimals": 18,
-			"logoURI": "https://static.tronscan.org/production/upload/logo/new/sun/TXL6rJbvmjD46zeN1JssfgxvSo99qC8MRT.png"
+			"logoURI": "https://static.tronscan.org/production/upload/logo/new/sun/thumb/TXL6rJbvmjD46zeN1JssfgxvSo99qC8MRT.png"
 		},
 		{
 			"symbol": "USD1",
