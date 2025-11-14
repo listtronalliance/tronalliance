@@ -1,10 +1,10 @@
 {
 	"name": "Tron Alliance List",
 	"logoURI": "https://list.tronalliance.cc/fav.ico",
-	"timestamp": 1761562908000,
+	"timestamp": 1763091140000,
 	"version": {
 		"major": 1,
-		"minor": 13,
+		"minor": 14,
 		"patch": 0
 	},
 	"tokens": [{
@@ -162,10 +162,10 @@
 		{
 			"symbol": "WBTC",
 			"name": "Wrapped BTC",
-			"address": "TXpw8XeWYeTUd4quDskoUqeQPowRh4jY65",
+			"address": "TYhWwKpw43ENFWBTGpzLHn3882f2au7SMi",
 			"chainId": 1,
 			"decimals": 8,
-			"logoURI": "https://static.tronscan.org/production/logo/TXpw8XeWYeTUd4quDskoUqeQPowRh4jY65.png"
+			"logoURI": "https://static.tronscan.org/production/upload/logo/new/TYhWwKpw43ENFWBTGpzLHn3882f2au7SMi.png?t=1755231610872"
 		},
 		{
 			"symbol": "WETH",
