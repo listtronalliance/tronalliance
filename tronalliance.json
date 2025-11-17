@@ -1,10 +1,10 @@
 {
 	"name": "Tron Alliance List",
 	"logoURI": "https://list.tronalliance.cc/fav.ico",
-	"timestamp": 1763091140000,
+	"timestamp": 1763350739000,
 	"version": {
 		"major": 1,
-		"minor": 14,
+		"minor": 15,
 		"patch": 0
 	},
 	"tokens": [{
@@ -166,14 +166,6 @@
 			"chainId": 1,
 			"decimals": 8,
 			"logoURI": "https://static.tronscan.org/production/upload/logo/new/TYhWwKpw43ENFWBTGpzLHn3882f2au7SMi.png?t=1755231610872"
-		},
-		{
-			"symbol": "WETH",
-			"name": "Wrapped ETH",
-			"address": "TXWkP3jLBqRGojUih1ShzNyDaN5Csnebok",
-			"chainId": 1,
-			"decimals": 18,
-			"logoURI": "https://static.tronscan.org/production/logo/TXWkP3jLBqRGojUih1ShzNyDaN5Csnebok.png"
 		},
 		{
 			"symbol": "sTRX",
