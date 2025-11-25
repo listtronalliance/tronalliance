@@ -170,6 +170,14 @@
 	        "logoURI": "https://static.tronscan.org/production/logo/TRFe3hT5oYhjSZ6f3ji5FJ7YCfrkWnHRvh.png"
 	    },
 		{
+			"symbol": "TRUMP",
+			"name": "OFFICIAL TRUMP",
+			"address": "TXZQuyCasxN42bjAcYpP2xwYVMCF6gHBnv",
+			"chainId": 1,
+			"decimals": 18,
+			"logoURI": "https://static.tronscan.org/production/upload/logo/new/TXZQuyCasxN42bjAcYpP2xwYVMCF6gHBnv.jpg"
+		},
+		{
 			"symbol": "LTC",
 			"name": "Litecoin",
 			"address": "TR3DLthpnDdCGabhVDbD3VMsiJoCXY3bZd",
@@ -200,14 +208,6 @@
 			"chainId": 1,
 			"decimals": 6,
 			"logoURI": "https://static.tronscan.org/production/upload/logo/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz81.png"
-		},
-		{
-			"symbol": "TRUMP",
-			"name": "OFFICIAL TRUMP",
-			"address": "TXZQuyCasxN42bjAcYpP2xwYVMCF6gHBnv",
-			"chainId": 1,
-			"decimals": 18,
-			"logoURI": "https://static.tronscan.org/production/upload/logo/new/TXZQuyCasxN42bjAcYpP2xwYVMCF6gHBnv.jpg"
 		},
 		{
 			"symbol": "SUNDOG",
