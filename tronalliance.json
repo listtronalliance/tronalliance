@@ -1,10 +1,10 @@
 {
 	"name": "Tron Alliance List",
 	"logoURI": "https://list.tronalliance.cc/fav.ico",
-	"timestamp": 1778639859000,
+	"timestamp": 1782305774929,
 	"version": {
 		"major": 1,
-		"minor": 18,
+		"minor": 19,
 		"patch": 0
 	},
 	"tokens": [
@@ -120,7 +120,6 @@
 			"name": "HTX",
 			"logoURI": "https://static.tronscan.org/production/upload/logo/new/HTX.png"
 		},
-		
 		{
 			"symbol": "USDT",
 			"name": "Tether USD",
@@ -162,21 +161,21 @@
 			"logoURI": "https://static.tronscan.org/production/upload/logo/new/TYhWwKpw43ENFWBTGpzLHn3882f2au7SMi.png?t=1755231610872"
 		},
 		{
-	        "symbol": "ETH",
-	        "address": "THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF",
-	        "chainId": 1,
-	        "decimals": 18,
-	        "name": "Ethereum",
-	    	"logoURI": "https://static.tronscan.org/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
-	    },
+			"symbol": "ETH",
+			"address": "THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF",
+			"chainId": 1,
+			"decimals": 18,
+			"name": "Ethereum",
+			"logoURI": "https://static.tronscan.org/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
+		},
 		{
-	        "symbol": "ETHB",
-	        "address": "TRFe3hT5oYhjSZ6f3ji5FJ7YCfrkWnHRvh",
-	        "chainId": 1,
-	        "decimals": 18,
-	        "name": "Ethereum BTTC-Bridged",
-	        "logoURI": "https://static.tronscan.org/production/logo/TRFe3hT5oYhjSZ6f3ji5FJ7YCfrkWnHRvh.png"
-	    },
+			"symbol": "ETHB",
+			"address": "TRFe3hT5oYhjSZ6f3ji5FJ7YCfrkWnHRvh",
+			"chainId": 1,
+			"decimals": 18,
+			"name": "Ethereum BTTC-Bridged",
+			"logoURI": "https://static.tronscan.org/production/logo/TRFe3hT5oYhjSZ6f3ji5FJ7YCfrkWnHRvh.png"
+		},
 		{
 			"symbol": "TRUMP",
 			"name": "OFFICIAL TRUMP",
@@ -200,7 +199,7 @@
 			"chainId": 1,
 			"decimals": 18,
 			"logoURI": "https://static.tronscan.org/production/upload/logo/TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9.png"
-		},		
+		},
 		{
 			"symbol": "USDDOLD",
 			"name": "Decentralized USD OLD",
@@ -232,7 +231,14 @@
 			"chainId": 1,
 			"decimals": 18,
 			"logoURI": "https://static.tronscan.org/production/upload/logo/new/TN3cfcFhLrdNZhMdHZVZ4z2XFWb7uB9CXg.jpg"
+		},
+		{
+			"symbol": "USA",
+			"name": "USA Token",
+			"address": "TKynrUF8Az2RUUjCLWKHqxcMswaNnUnUSa",
+			"chainId": 1,
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/multicoinbase/projects/main/tokens/tron/TKynrUF8Az2RUUjCLWKHqxcMswaNnUnUSa/tronscan-logo-100.png"
 		}
-
 	]
 }
